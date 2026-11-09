@@ -17,3 +17,15 @@ Tom 的猎头方法与 BD 情报库。长期知识点：以后不管通过任何
 - 玩法搜集：每日
 - BD 热信号漏斗：每日 08:00（北京时间）
 - 每周商机扫描：每周一上午
+
+## 通用 AI 知识库（跨平台）
+
+本仓库新增公开可读的跨平台知识索引，适用于可以访问 GitHub 的 ChatGPT、Gemini、DeepSeek、Manus、Muse、OpenBots 等 AI：
+
+- [AGENTS.md — 各 AI 的调用规则](AGENTS.md)
+- [llms.txt — 可读取文件的入口](llms.txt)
+- [ALL_AI_KNOWLEDGE.md — 公共招聘知识全集（可恢复部分）](ALL_AI_KNOWLEDGE.md)
+- [AI-KNOWLEDGE-INDEX.md — 知识索引](AI-KNOWLEDGE-INDEX.md)
+- [skills/INDEX.md — 新增标准化 Skill](skills/INDEX.md)
+
+**来源边界：** 该公开版是可读取资料和长期知识摘要的合并，不是 ChatGPT 所有私人 Memory 的逐字导出。原有 Muse、BD、玩法日志等文件没有覆盖。

@@ -1,0 +1,25 @@
+{
+  "version": "2026-11-09",
+  "scope": "public-safe cross-AI recruiting methods",
+  "full_memory_export": false,
+  "source_sections": 15,
+  "standardized_skills": 9,
+  "sha256_merged": "748e853f432d4eaa0599303a036c2c1f07707297ef348f27e76c4fb4068525bc",
+  "source_paths": [
+    "chatgpt-knowledge-20261109/README.md",
+    "chatgpt-knowledge-20261109/knowledge/aci-finder-and-frameworks.md",
+    "chatgpt-knowledge-20261109/knowledge/cross-ai-operating-rules.md",
+    "chatgpt-knowledge-20261109/knowledge/industry-frameworks.md",
+    "chatgpt-knowledge-20261109/knowledge/provenance-and-gaps.md",
+    "chatgpt-knowledge-20261109/knowledge/tool-map.md",
+    "chatgpt-knowledge-20261109/skills/active-candidate-evidence/SKILL.md",
+    "chatgpt-knowledge-20261109/skills/agent-orchestration/SKILL.md",
+    "chatgpt-knowledge-20261109/skills/bd-market-signals/SKILL.md",
+    "chatgpt-knowledge-20261109/skills/candidate-evaluation/SKILL.md",
+    "chatgpt-knowledge-20261109/skills/enrichment-dedup-outreach/SKILL.md",
+    "chatgpt-knowledge-20261109/skills/hr-intake/SKILL.md",
+    "chatgpt-knowledge-20261109/skills/recruiter-report/SKILL.md",
+    "chatgpt-knowledge-20261109/skills/transcription-qa/SKILL.md",
+    "chatgpt-knowledge-20261109/skills/xray-sourcing/SKILL.md"
+  ]
+}

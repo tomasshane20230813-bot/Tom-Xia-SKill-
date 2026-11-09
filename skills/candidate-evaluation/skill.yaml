@@ -1,0 +1,4 @@
+name: candidate-evaluation
+title: "基于强证据的候选人推荐评估"
+category: Recruitment
+include_in_prompt: true

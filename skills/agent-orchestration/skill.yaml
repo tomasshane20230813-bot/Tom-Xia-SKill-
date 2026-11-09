@@ -1,0 +1,4 @@
+name: agent-orchestration
+title: "AI Agent 猎头工作编排"
+category: Recruitment
+include_in_prompt: true

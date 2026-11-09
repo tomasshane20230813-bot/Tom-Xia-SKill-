@@ -1,0 +1,4 @@
+name: transcription-qa
+title: "招聘会议/候选人录音转写 QA Skill"
+category: Recruitment
+include_in_prompt: true
