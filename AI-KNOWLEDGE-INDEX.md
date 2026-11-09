@@ -10,6 +10,7 @@ This public GitHub repository is a single source of reusable recruiting practice
 - [Existing GitHub playbook synchronization](skills/github-playbook-sync/SKILL.md)
 - [Existing BD intelligence](bd/README.md)
 - [Existing playbook log](playbook/playbook-sweep-log.md)
+- [Recruitment theme docs](knowledge/recruitment/README.md) — sourcing SOP and source index, including the 2026-11-09 PM scan (third-party tutorials, not verified in-project)
 
 ## Newly imported skills
 
