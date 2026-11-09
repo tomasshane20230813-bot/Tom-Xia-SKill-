@@ -1,0 +1,5 @@
+name: virtual_resume_probe
+title: 虚拟简历探针法
+description: 用可控缺陷的虚拟人选校准出海中企客户的真实用人画像，含薪资三档测试与 HR/HM 首轮区分。
+category: Work and knowledge
+include_in_prompt: true
