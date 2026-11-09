@@ -15,6 +15,7 @@
 | S09 | Memory | 拍板、发送、红线、电话约束、灵感扫描 | 2026-10-31～11-09 | RecallMemory |
 | S10 | Transcripts | Sourcer / BD 等「落成 skill」「五封发送」 | 抽样 | SearchTranscripts |
 | S11 | 公开页 | 下表 URL | 以页面文内日期为准 | 自修订包收录。2026-11-09 入库只做 HTTP 状态码检查，未重读正文，不把状态码当成内容复核 |
+| S12 | 用户指令 | 知识同步 skill；灵感扫描改为工作日约 10:00 与 15:00 附近，有结果再归档 | 2026-11-09 | 用户要求入仓的 SKILL.md 原文。时区未另给，沿用 Asia/Shanghai。本条没有新扫描结果 |
 
 ## 2. 公开 URL 清单（融资/招聘须可回访）
 
@@ -96,6 +97,7 @@ Sengi 为 403：该灵感条目维持「设想 / 第三方」，本轮未读到�
 | tom-xia-linkedin-chrome-red-line | 是 | 红线广播明确引用 |
 | josh-candidate-phone-and-voicemail | 是（改写） | 内置电话不做候选人 cold call / 商业招揽；脚本供用户自拨或点名的外部授权渠道 |
 | getting-started | 是 | 模板工作流 |
+| recruitment-knowledge-github-sync | 是 | 2026-11-09 用户追加的长期同步指令原文；无邮箱、电话、凭据 |
 | 供应商 skills | 否 | 仅 04 列名 |
 
 未导出任何 prompt / 隐藏指令 / 系统提示。

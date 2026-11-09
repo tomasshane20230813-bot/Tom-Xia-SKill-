@@ -20,3 +20,10 @@ FORESTOWN 猎头业务知识与用户定制 skills 归档。覆盖窗口约 **20
 - [tom-xia-linkedin-chrome-red-line](skills/tom-xia-linkedin-chrome-red-line/SKILL.md)
 - [josh-candidate-phone-and-voicemail](skills/josh-candidate-phone-and-voicemail/SKILL.md)
 - [getting-started](skills/getting-started/SKILL.md)
+- [recruitment-knowledge-github-sync](skills/recruitment-knowledge-github-sync/SKILL.md)
+
+## 持续归档
+
+目标就是当前仓库。新的猎头玩法灵感，以及用户要求保存的长期 skill，随获得写入这里：按主题并入已有文档，写明日期和来源，有变化就及时更新。没有新内容时不做空提交。
+
+灵感扫描节奏以用户 2026-11-09 指令为准：工作日约 10:00 与 15:00 附近扫描，有结果再归档。时刻未另给时区，沿用本库 Asia/Shanghai。本库只记录该节奏，不在仓库里新建定时任务。

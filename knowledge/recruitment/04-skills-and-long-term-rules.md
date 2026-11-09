@@ -11,8 +11,9 @@
 | `tom-xia-linkedin-chrome-red-line` | 禁止本人 LI / 个人 Chrome | [SKILL.md](../../skills/tom-xia-linkedin-chrome-red-line/SKILL.md) |
 | `josh-candidate-phone-and-voicemail` | Josh 话术；**内置电话不做候选人 cold call**；脚本供用户自拨或点名的外部授权渠道 | [SKILL.md](../../skills/josh-candidate-phone-and-voicemail/SKILL.md) |
 | `getting-started` | Recruitment Lead 模板首次设置问答 | [SKILL.md](../../skills/getting-started/SKILL.md) |
+| `recruitment-knowledge-github-sync` | 玩法灵感与用户要求保存的长期 skill，及时同步到当前仓库 | [SKILL.md](../../skills/recruitment-knowledge-github-sync/SKILL.md) |
 
-上表是 2026-11-09 修订包里已取到的 5 个用户定制 skill，不表示更早历史里的全部 skill 已被穷尽。查该窗口材料时，未发现更多「明确要求永久保存」且存在于本机用户 workflows 的额外 slug。Notion 上的 ACI Finder / LinkedIn 评估 V1.0 以页面为 canonical，本库在 [01](01-sourcing-playbooks-and-sop.md) / [05](05-sources-index.md) 引用，不另造 skill 文件。
+2026-11-09 修订包当时入库 5 个用户定制 skill，不表示更早历史已被穷尽。同日用户追加 `recruitment-knowledge-github-sync`，原文即该 skill 文件。Notion 上的 ACI Finder / LinkedIn 评估 V1.0 以页面为 canonical，本库在 [01](01-sourcing-playbooks-and-sop.md) / [05](05-sources-index.md) 引用，不另造 skill 文件。
 
 ---
 
@@ -50,6 +51,8 @@
 7. 客户歧视性口头偏好不写入自动筛选。  
 8. 协调默认 Asia/Shanghai，并保留来源时区。  
 9. 内置助手电话不用于候选人 cold call / 商业招揽。
+10. **知识同步（2026-11-09 用户指令，原文见 [recruitment-knowledge-github-sync](../../skills/recruitment-knowledge-github-sync/SKILL.md)）：** 目标就是当前仓库。之后获得的猎头玩法灵感，以及用户要求保存的长期 skill，随获得更新本库。按主题并入已有文档，不按单条灵感另开文件。每条写发现日期、来源、证据等级和业务用途。有变化及时提交；没有新内容不做空提交，也不重复通知。该指令授权的是内容归档，不包含合并默认分支或改仓库权限。
+11. **灵感扫描节奏（同一用户指令，2026-11-09）：** 工作日约 10:00 与 15:00 附近扫描；有结果再按主题归档。指令未另给时区，沿用 Asia/Shanghai。本库只记录节奏，不在仓库中新建定时任务。本条落地时没有新的扫描结果。
 
 ---
 

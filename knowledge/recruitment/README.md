@@ -21,9 +21,11 @@
 | [tom-xia-linkedin-chrome-red-line](../../skills/tom-xia-linkedin-chrome-red-line/SKILL.md) | 用户定制 skill |
 | [josh-candidate-phone-and-voicemail](../../skills/josh-candidate-phone-and-voicemail/SKILL.md) | 用户定制 skill；内置电话不做候选人招揽 |
 | [getting-started](../../skills/getting-started/SKILL.md) | 用户定制 skill |
+| [recruitment-knowledge-github-sync](../../skills/recruitment-knowledge-github-sync/SKILL.md) | 用户定制 skill：玩法与长期 skill 及时同步到当前仓库 |
 
 ## 本库收录边界
 
 - **收录：** 可复用的寻访方法、已核对公开链接的 BD 信号、已沉淀业务约定、用户明确落成的 skills 原文。
 - **不收录：** 候选人名单与联系方式、供应商/托管 skill 的内部操作手册全文、prompt / 隐藏指令、未带来源的融资或编制数字。
 - **失败如实记录：** 例如 2026-11-08 谷歌反重力 SwiftX 约 20:10 截止的新人 PDF 未达标，不得写成已跑通。
+- **持续更新（2026-11-09 用户指令）：** 目标就是当前仓库。新灵感和用户要求保存的长期 skill 按主题并入已有文档，写明日期与来源；有变化及时更新，无新变化不空提交。灵感扫描为工作日约 10:00 与 15:00 附近，有结果再归档（时区沿用 Asia/Shanghai）。执行条文见 [recruitment-knowledge-github-sync](../../skills/recruitment-knowledge-github-sync/SKILL.md)。

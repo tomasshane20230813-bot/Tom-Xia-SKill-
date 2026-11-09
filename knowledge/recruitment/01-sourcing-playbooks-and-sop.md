@@ -38,6 +38,8 @@
 
 ## B. 灵感扫描（第三方方法，未宣称项目内跑通）
 
+**扫描节奏（用户指令，2026-11-09）：** 工作日约 10:00 与 15:00 附近扫描；有够格结果则按主题并入本节并及时归档。时刻未另指定时区，沿用本库 Asia/Shanghai。本条只记录节奏，没有新建定时任务，也没有附带新的扫描结果。同步规则见 [recruitment-knowledge-github-sync](../../skills/recruitment-knowledge-github-sync/SKILL.md)。
+
 ### B1. 2026-11-06 下午场（记忆摘要）
 
 1. GitHub code search 用 `symbol:` 找定义者 + `author:` `is:merged` 验贡献 — 标注来源 HeroHunt 2026-08（第三方；本库未重抓原文 URL）。
