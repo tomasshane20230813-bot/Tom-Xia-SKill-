@@ -773,3 +773,7 @@
 - 技术岗 GitHub 线从「要不要用」进入「怎么从一仓切到可触达 slate」——八刀日志值得并入 github-evidence-sourcing 实操附录（仍标第三方未复跑）。
 - 外联字数帽（≤120）与 LI InMail ~1900 红线是不同渠道；GitHub/邮件侧用更短。
 - 归档：并入 knowledge/recruitment 主题文档 + playbook-sweep-log；不新建零散文件；保留分支/PR，不擅自合并 main。
+
+## 2026-11-10（Tue ~15:06 Asia/Shanghai，下午场）
+
+归档一行，不另起文章：B5 写入 [01](../knowledge/recruitment/01-sourcing-playbooks-and-sop.md)（GitHub `"followers" "following"` + `type:user`；Sessionize `intitle:"Speaker Profile"`；Kaggle Grandmaster/Master/Expert），来源 [05](../knowledge/recruitment/05-sources-index.md) S18 The Cognitive（发布 2026-10-04、更新 2026-11-04；2026-11-10 WebFetch 全文）与可选 S19 Talent Place（2026-07-14，仅 Kaggle 段位交叉，未整篇收为玩法）。第三方教程，未在 FORESTOWN Round 复跑。

@@ -118,6 +118,39 @@
 
 本场刻意不收录、也不推荐：Refolk 仍写到的 `AROUND(n)`（HeroHunt 指出该算子只在 Google Vault 文档出现，网页搜索是否可用存在冲突，本轮不推）。也不因 HeroHunt 仍示范 `site:linkedin.com/in/ "title" "city"` 而重新采纳已失效的 LinkedIn 公共 title/location X-ray（与已归档的 Jan Tegze / Full Stack Recruiter 判断冲突）。
 
+### B5. 2026-11-10 下午场（灵感扫描；第三方方法，未宣称项目内跑通）
+
+扫描日：2026-11-10 约 15:06 Asia/Shanghai。与 B1–B4 不重复。证据等级：第三方方法（教程自报）；已打开原文核对，未在 FORESTOWN Round 独立复跑。作者自述未在登出浏览器复跑全部字符串。下列搜索串是教程原文，不是本库已跑通的结果。
+
+#### 1. GitHub 画像锚词 `"followers" "following"` + 站内 `type:user`（language/location/created）
+
+| 字段 | 内容 |
+| --- | --- |
+| 出处 | Sparsh Goyal / The Cognitive, *30 Google X-Ray Search Strings Beyond LinkedIn (2026)*, 发布 2026-10-04、更新 2026-11-04；Strings 1–5 |
+| URL | https://thecognitive.io/blog/google-xray-search-recruiters |
+| 核心 | Google `site:github.com` 会混进仓库/issue/文档。画像页专有词对：`site:github.com "followers" "following" ("Go" OR "Golang") "Berlin" -tutorial -awesome`，把结果压向用户主页；`-awesome` 去掉链接合集仓。位置与语言更准时改用 **GitHub 自己的用户搜索**（不是 Google）：`type:user location:berlin language:go followers:>10`（`language:` = 其拥有仓的语言）。资历代理：`type:user language:rust location:"san francisco" repos:>5 created:<2019-01-01`。GitHub Pages 简历：`site:github.io ("resume" OR "CV") "data engineer" ("Airflow" OR "dbt")`。注意：robots 挡 `/contributors` 与 `/stargazers`，别指望爬贡献者列表；AUP 禁止用 GitHub 数据做未征询邮件。 |
+| 怎么用在我们这边 | 硅谷 AI/工程岗在 LinkedIn 公共 title 过滤弱化后，执行端（PI/谷歌反重力）把「Google 画像锚词串」与「GitHub 站内 type:user」当成两条并行证据车道；外联点名具体仓/语言，不登本人 LI。语言/城市按 SwiftX、Yealink、硅谷 AI JD 替换。贡献活跃 ≠ Active 看机会，也不是公开中文证据。 |
+
+#### 2. Sessionize `intitle:"Speaker Profile"` + 全网讲者页 / PDF 讲稿
+
+| 字段 | 内容 |
+| --- | --- |
+| 出处 | 同上 The Cognitive，Strings 23–25 |
+| URL | https://thecognitive.io/blog/google-xray-search-recruiters |
+| 核心 | 讲者池已被会议方筛过一轮。Sessionize：`site:sessionize.com intitle:"Speaker Profile" "Kubernetes" "Germany"`（页面标题固定带 Speaker Profile）。不限站点的近期讲者页：`intitle:speakers "data engineering" ("conference" OR "summit") after:2025 -jobs`。讲稿 PDF：`filetype:pdf "product management" ("keynote" OR "talk") "speaker" after:2025`（首页常有姓名与雇主）。 |
+| 怎么用在我们这边 | 利基技术岗/亚太会场（新加坡、马来、香港、澳洲）先扫 Sessionize + 会后 PDF，再 enrichment；适合 Network Planning、AI infra、物流科技等公开分享多的人。执行与全量查重交给执行端。演讲 ≠ Active，公开中文证据仍单独硬卡。 |
+
+#### 3. Kaggle 段位词（Grandmaster/Master/Expert）X-ray，并与 GitHub 交叉
+
+| 字段 | 内容 |
+| --- | --- |
+| 出处 | 同上 The Cognitive，Strings 9–11；交叉 Talent Place *Where to Find AI-Native Talent Beyond LinkedIn*（2026-07-14）对 Kaggle 段位作为可验证技能信号的说明 |
+| URL | https://thecognitive.io/blog/google-xray-search-recruiters ；https://talentplace.com/blog/for-recruiters/where-to-find-ai-native-talent-beyond-linkedin/ |
+| 核心 | 段位词当过滤器：`site:kaggle.com ("Grandmaster" OR "Master") "London" -competitions -datasets -discussion`；或 `site:kaggle.com "Expert" "computer vision" ("Bengaluru" OR "Bangalore")`。交叉公开代码：`site:github.com "followers" "following" "kaggle.com" "Toronto"`（主页链到 Kaggle）。作者注明当日未能读 Kaggle robots.txt（有 captcha），字符串需自测。段位证明竞赛能力，不证明当前雇主或看机会。 |
+| 怎么用在我们这边 | 硅谷/新加坡 Data Scientist、Applied ML Round：先按段位+主题出池，再交叉 GitHub/HF（上午场 B4），全量查重后 enrichment。找人交给执行端；红线不登本人 LI。竞赛成绩 ≠ Active，也不是中文证据。 |
+
+本场刻意不收录：SocialTalent 仍示范失效的 LinkedIn 公共 title/location X-ray；Doximity/NPI（非我们目标市场）；Wellfound `/u/`（robots 已挡）；Meetup 需登录的会员页；Talent Place 的 Discord/Product Hunt 观察法（偏关系运营、非立刻可复用搜索串）。GitHub Acceptable Use 禁止用其数据做 spam / 未征询邮件；外联仍默认只起草、经用户批准后再发，且不从 commit 元数据捞邮。
+
 ---
 
 ## C. Active 识别与评分（合辑）
@@ -171,3 +204,4 @@
 | HeroHunt `symbol:` 等 | **设想未复跑** | 灵感扫描条目 |
 | 2026-11-09 下午场：八刀切割 / 中星仓 reviewer / Stack Overflow 用户页 X-ray | **设想未复跑** | 第三方教程，见 B3；未在项目内复跑 |
 | 2026-11-10 上午场：`&udm=14` 经典 Web 结果 / Hugging Face 画像锚点 X-ray / Scholar「Verified email at」+ arXiv `after:` | **设想未复跑** | 第三方教程，见 B4；三条均未在 FORESTOWN 项目内复跑 |
+| 2026-11-10 下午场：GitHub `"followers" "following"` + `type:user` / Sessionize `intitle:"Speaker Profile"` / Kaggle 段位词 X-ray | **设想未复跑** | 第三方教程，见 B5；三条均未在 FORESTOWN 项目内复跑 |
