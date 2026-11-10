@@ -11,6 +11,7 @@ This public GitHub repository is a single source of reusable recruiting practice
 - [Existing BD intelligence](bd/README.md)
 - [Existing playbook log](playbook/playbook-sweep-log.md)
 - [Recruitment theme docs](knowledge/recruitment/README.md) — sourcing SOP and source index, including the 2026-11-09 PM scan (third-party tutorials, not verified in-project)
+- [2026-11-10 AM sourcing scan (B4)](knowledge/recruitment/01-sourcing-playbooks-and-sop.md) — `&udm=14`, Hugging Face profile X-ray, Scholar/arXiv; third-party tutorials, not verified in-project
 
 ## Newly imported skills
 

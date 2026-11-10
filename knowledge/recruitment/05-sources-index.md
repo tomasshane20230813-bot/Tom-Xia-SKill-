@@ -50,6 +50,8 @@
 - https://sengi.ai/blog/active-sourcing-with-ai/
 - https://github.com/ohsusannamarie/GitHub-advanced-search
 - https://paseo.sh/docs/supported-providers.md（以当时页面为准）
+- https://www.refolk.ai/blog/x-ray-search-google-2026-what-still-works （S16；2026-11-10 WebFetch 全文）
+- https://www.herohunt.ai/blog/x-ray-search-for-recruiters-2026-50-strings-that-work/ （S17；2026-11-10 WebFetch 全文）
 
 **刻意不写金额的历史线索：** Rogo「D 轮/估值」等仅见二次摘要、无本包精确 URL，标为历史线索未再核。
 
@@ -104,7 +106,7 @@ Sengi 为 403：该灵感条目维持「设想 / 第三方」，本轮未读到�
 
 ## 4. 覆盖
 
-已覆盖窗口约 **2026-10-31 至 2026-11-09** 已取到的材料：GitHub 证据库玩法；灵感扫描 B1（2026-11-06 下午）、B2（2026-11-09 上午）、B3（2026-11-09 约 15:08 下午；第三方教程，未在项目内复跑）；Active + LI SOP；P0 六家带 URL 的信号与发送/未发送；多 Agent 业务边界；2026-11-08 反重力未完成验收；5 个用户 skills 原文；电话与外联默认表述。这不是全历史穷尽。
+已覆盖窗口约 **2026-10-31 至 2026-11-10** 已取到的材料：GitHub 证据库玩法；灵感扫描 B1（2026-11-06 下午）、B2（2026-11-09 上午）、B3（2026-11-09 约 15:08 下午；第三方教程，未在项目内复跑）、B4（2026-11-10 约 10:05 上午；第三方教程，两篇均于 2026-11-10 WebFetch 全文，未在项目内复跑）；Active + LI SOP；P0 六家带 URL 的信号与发送/未发送；多 Agent 业务边界；2026-11-08 反重力未完成验收；5 个用户 skills 原文；电话与外联默认表述。这不是全历史穷尽。
 
 ## 5. 缺口
 
@@ -117,6 +119,7 @@ Sengi 为 403：该灵感条目维持「设想 / 第三方」，本轮未读到�
 - 供应商 / 托管 skill 只保留名称索引，不复制内部手册或系统指令。
 - 归档目标就是当前仓库。修订包里「尚未写入 Git」的句子到此失效。
 - 2026-11-09 下午场三条（Refolk / ConnectDevs / Pin，见文末追加来源 S13–S15）为第三方教程：Refolk 与 ConnectDevs 按 WebFetch 全文归档，Pin 按搜索摘要加页面要点归档；均未在 FORESTOWN Round 独立复跑。
+- 2026-11-10 上午场两条（Refolk *X-Ray Search in 2026*，2026-05-09；HeroHunt / Yuma Heymans *50 Strings*，2026-10-01；见文末 S16–S17）已于 2026-11-10 用 WebFetch 打开全文并写入精确 URL，不再属于「无精确 URL」类缺口。证据等级仍是第三方教程，未在 FORESTOWN Round 独立复跑。B1 所记 HeroHunt 2026-08 `symbol:`、ZenBee、Work Insiders 仍无精确文章 URL。本轮未重跑 2026-11-09 融资/招聘板 HTTP 链接检查。
 
 ## 追加来源（2026-11-09 下午场灵感扫描）
 
@@ -132,3 +135,16 @@ URL：
 - https://www.pin.com/blog/x-ray-search-recruiters/
 
 证据等级：第三方方法（教程自报）。不复制凭证、候选人资料或供应商内部手册。
+
+## 追加来源（2026-11-10 上午场灵感扫描）
+
+| ID | 类型 | 对象 | 日期 | 方式 |
+| --- | --- | --- | --- | --- |
+| S16 | 公开指南 | Refolk, X-Ray Search in 2026: What Google Killed, What Still Works | 2026-05-09；扫描 2026-11-10 | WebFetch 全文 |
+| S17 | 公开指南 | HeroHunt / Yuma Heymans, X-Ray Search for Recruiters 2026: 50 Strings That Work | 2026-10-01；扫描 2026-11-10 | WebFetch 全文 |
+
+URL：
+- https://www.refolk.ai/blog/x-ray-search-google-2026-what-still-works
+- https://www.herohunt.ai/blog/x-ray-search-for-recruiters-2026-50-strings-that-work/
+
+两篇均于 2026-11-10 WebFetch 全文。证据等级：第三方方法（教程自报），未在 FORESTOWN Round 独立复跑。不复制凭证、候选人资料或供应商内部手册。本轮不推荐 `AROUND(n)`，也不重新采纳已失效的 LinkedIn 公共 title/location X-ray。

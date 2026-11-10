@@ -85,6 +85,39 @@
 | 核心 | `site:stackoverflow.com/users "java" "california"` 一类；看 top tags 与近期答题。声誉作粗质量信号，须再交叉 GitHub/公开履历；可加 `filetype:pdf "role" "skill" -jobs -template -sample` 挖公开简历（注意过期）。 |
 | 怎么用在我们这边 | LinkedIn 公共 title 过滤弱化后，技术岗第二证据池；马来/新加坡华人技术岗可叠地点词再 enrichment；勿单独当 Active 证据。 |
 
+### B4. 2026-11-10 上午场（灵感扫描；第三方方法，未宣称项目内跑通）
+
+扫描日：2026-11-10 约 10:05 Asia/Shanghai。与 B1–B3 不重复。证据等级：第三方方法（教程自报）；已打开原文核对，未在 FORESTOWN Round 独立复跑。
+
+#### 1. Google 搜索 URL 加 `&udm=14`，切回经典 Web 结果、去掉 AI Overview
+
+| 字段 | 内容 |
+| --- | --- |
+| 出处 | Refolk, *X-Ray Search in 2026: What Google Killed, What Still Works*, May 9, 2026；交叉来源 HeroHunt / Yuma Heymans, *X-Ray Search for Recruiters 2026: 50 Strings That Work*, Oct 1, 2026（文内指向 Google 帮助页的 Web 过滤器与 gHacks 对 `&udm=14` 的说明） |
+| URL | https://www.refolk.ai/blog/x-ray-search-google-2026-what-still-works ；https://www.herohunt.ai/blog/x-ray-search-for-recruiters-2026-50-strings-that-work/ |
+| 核心 | AI Overview 会把「要看的 10 个 GitHub/公开页链接」压到折页下。在 Google 搜索 URL 末尾加 `&udm=14`（或点页面上的 Web 过滤器）可强制经典网页结果。两家互证同一技巧。另：Google 于 2025-09 左右停用 `&num=100`，再加该参数仍只有约 10 条/页，不要再依赖「一页 100 人」的插件。 |
+| 怎么用在我们这边 | 凡是走 Google 的开网 X-ray（GitHub、Stack Overflow、PDF、advice 页、本场 Hugging Face / Scholar / arXiv）都把 `&udm=14` 写进书签或交给执行端的搜索 URL；不登本人 LinkedIn、不改用户其他文件。立刻可试，无需新工具。 |
+
+#### 2. Hugging Face 画像锚点 X-ray：用页面专有标签锁定 practitioner 主页
+
+| 字段 | 内容 |
+| --- | --- |
+| 出处 | HeroHunt / Yuma Heymans, *X-Ray Search for Recruiters 2026: 50 Strings That Work*, String 20, Oct 1, 2026 |
+| URL | https://www.herohunt.ai/blog/x-ray-search-for-recruiters-2026-50-strings-that-work/ |
+| 核心 | 示例：`site:huggingface.co "AI & ML interests" ("speech recognition" OR "ASR")`。`AI & ML interests` 是 Hugging Face **个人主页**上的标签，用来把模型卡、数据集页从结果里挤出去。已发布的微调模型比技能标签更能证明会做。主题词按 JD 替换（如 speech / ASR、LLM、multimodal）。 |
+| 怎么用在我们这边 | 硅谷 AI / 模型岗 Round：在 LinkedIn 公共 title 过滤弱化后，把 Hugging Face 当第一证据池之一；点进主页看具体模型再 enrichment、起草外联（点名某个 model/space）。找人和查重仍交给 PI / 谷歌反重力等执行端；红线：不登本人 LI。模型发布 ≠ Active。 |
+
+#### 3. Google Scholar「Verified email at」+ 近期 arXiv `after:` 找前沿研究人选
+
+| 字段 | 内容 |
+| --- | --- |
+| 出处 | 同上 HeroHunt 指南，Strings 23–25, Oct 1, 2026；文内引用 Stanford HAI *2026 AI Index Report*（2026-04；数据源 Zeki）关于瑞士、新加坡在每 10 万人口顶刊作者/发明人密度靠前 |
+| URL | https://www.herohunt.ai/blog/x-ray-search-for-recruiters-2026-50-strings-that-work/ |
+| 核心 | 学者画像：`site:scholar.google.com "Verified email at" "reinforcement learning" "robotics"`（「Verified email at」出现在已验证机构邮箱的 Scholar 画像上）。按机构域名切市场：`site:scholar.google.com "Verified email at ethz.ch" "computer vision"`，新加坡可用 `nus.edu.sg` / `ntu.edu.sg`。前沿、画像上还没写的技术：`site:arxiv.org/abs "speculative decoding" after:2026/01/01`，从近期论文作者反查当前雇主。 |
+| 怎么用在我们这边 | Research Scientist / founding ML 岗先从近期论文和已验证机构邮箱起名单，再交叉公开履历与 GitHub；新加坡密度对亚太覆盖有用。执行与全量查重交给执行端。论文发表 ≠ Active，也不是公开中文证据。 |
+
+本场刻意不收录、也不推荐：Refolk 仍写到的 `AROUND(n)`（HeroHunt 指出该算子只在 Google Vault 文档出现，网页搜索是否可用存在冲突，本轮不推）。也不因 HeroHunt 仍示范 `site:linkedin.com/in/ "title" "city"` 而重新采纳已失效的 LinkedIn 公共 title/location X-ray（与已归档的 Jan Tegze / Full Stack Recruiter 判断冲突）。
+
 ---
 
 ## C. Active 识别与评分（合辑）
@@ -137,3 +170,4 @@
 | LinkedIn advice X-ray / Sengi 公司池法 | **设想未复跑** | 公开教程灵感 |
 | HeroHunt `symbol:` 等 | **设想未复跑** | 灵感扫描条目 |
 | 2026-11-09 下午场：八刀切割 / 中星仓 reviewer / Stack Overflow 用户页 X-ray | **设想未复跑** | 第三方教程，见 B3；未在项目内复跑 |
+| 2026-11-10 上午场：`&udm=14` 经典 Web 结果 / Hugging Face 画像锚点 X-ray / Scholar「Verified email at」+ arXiv `after:` | **设想未复跑** | 第三方教程，见 B4；三条均未在 FORESTOWN 项目内复跑 |
