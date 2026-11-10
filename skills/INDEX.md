@@ -1,5 +1,6 @@
 # Reusable Headhunter Skills
 
+- [global-headhunter-primary-executor](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/global-headhunter-primary-executor/SKILL.md)
 - [active-candidate-evidence](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/active-candidate-evidence/SKILL.md)
 - [agent-orchestration](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/agent-orchestration/SKILL.md)
 - [bd-market-signals](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/bd-market-signals/SKILL.md)

@@ -1,0 +1,6 @@
+name: global-headhunter-primary-executor
+version: "1.0.0"
+description: 全球猎头主执行 Agent（Primary Executor）标准工作闭环规范。负责海外与全球人才寻访、四端只读查重、初评打分、主动调度 Google Antigravity 独立复核及第三方家族模型仲裁、输出证据完备的结构化报告。
+category: recruiting
+author: Tom Xia
+last_updated: "2026-11-10"
