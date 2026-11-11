@@ -21,3 +21,4 @@ Skills:
 - [xray-sourcing](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/xray-sourcing/SKILL.md)
 
 Note: these materials are public-safe abstractions, not a complete direct export of every ChatGPT memory or third-party skill.
+- [public-linkedin-profile-reader](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/public-linkedin-profile-reader/SKILL.md)

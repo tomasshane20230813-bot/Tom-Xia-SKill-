@@ -12,3 +12,4 @@
 - [xray-sourcing](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/xray-sourcing/SKILL.md)
 
 Original repository skills (virtual-resume-probe and github-playbook-sync) are preserved.
+- [public-linkedin-profile-reader](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/public-linkedin-profile-reader/SKILL.md)
