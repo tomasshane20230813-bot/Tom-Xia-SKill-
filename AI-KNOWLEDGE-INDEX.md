@@ -14,6 +14,7 @@ This public GitHub repository is a single source of reusable recruiting practice
 - [2026-11-10 AM sourcing scan (B4)](knowledge/recruitment/01-sourcing-playbooks-and-sop.md) — `&udm=14`, Hugging Face profile X-ray, Scholar/arXiv; third-party tutorials, not verified in-project
 - [2026-11-10 PM sourcing scan (B5)](knowledge/recruitment/01-sourcing-playbooks-and-sop.md) — GitHub profile anchors + `type:user`, Sessionize speaker pages, Kaggle tier X-ray; third-party tutorials, not verified in-project
 - [2026-11-11 AM sourcing scan (B6)](knowledge/recruitment/01-sourcing-playbooks-and-sop.md) — DEV/Medium writer-profile X-ray, Meetup organizers, competing ATS job boards; third-party tutorials, not verified in-project
+- [2026-11-11 PM sourcing scan (B7)](knowledge/recruitment/01-sourcing-playbooks-and-sop.md) — HN monthly Who wants to be hired (read-only email), leadership-appointment news X-ray, university lab member pages; third-party tutorials, not verified in-project
 
 ## Newly imported skills
 

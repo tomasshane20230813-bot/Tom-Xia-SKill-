@@ -184,6 +184,42 @@
 
 本场刻意不收录：B4 已入库的 Hugging Face / Scholar / arXiv / `&udm=14`；B5 已入库的 GitHub 画像锚词、Sessionize、Kaggle，以及已写在 B5.1 核心里的 `site:github.io` 简历串；HeroHunt 仍示范的 LinkedIn 公共 title/location X-ray；Doximity；需登录的 Meetup 会员页；Wellfound `/u/`（robots 已挡；`/p/` 路径本场未独立核验，不推荐）。GitHub AUP 禁止用其数据做未征询邮件；外联默认只起草。
 
+### B7. 2026-11-11 下午场（灵感扫描；第三方方法，未宣称项目内跑通）
+
+扫描日：2026-11-11 约 15:15 Asia/Shanghai。与 B1–B6 不重复。证据等级：第三方方法（教程自报）。Refolk 两篇于 2026-11-11 WebFetch 全文；HeroHunt 的 String 46 与 String 48 复用 S17（2026-11-10 已 WebFetch 全文，本场沿用），不另编号。未在 FORESTOWN Round 独立复跑。下列搜索串与节奏是教程原文，不是本库已跑通的结果。
+
+Refolk 指数统计是供应商自报，本库未复核。包括标题所称美国软件工程师约 2,740 人里才有 1 人在标题里写 open to work（文内口径：Refolk 指数中美国 Software Engineer 353,400 人，标题含 “open to work” 的 129 人；作者注明这是标题关键词，不含平台里私密的 open-to-work 设置），以及 S21 转述 HireIndex 的「发帖人平均经验约 9 年」。2026-11-11 独立核对的只有：当月 HN 帖仍在，且帖顶版规与文章所述一致。不摘录任何发帖人姓名、邮箱、简历链接或其他个人资料。
+
+#### 1. Hacker News 月度 “Ask HN: Who wants to be hired?”：只读，发到对方自己公开的邮箱，在下月顶替前用完
+
+| 字段 | 内容 |
+| --- | --- |
+| 出处 | Refolk, *Only 1 in 2,740 US Engineers Says 'Open to Work.' Read HN Before December*, 2026-11-04（S20）。次要背景：Refolk, *HN's "Who Wants to Be Hired" Is 9-Year Seniors. Recruiters Are Banned.*, 2026-09-20（S21；只取资历与「禁令是护城河不是墙」的语境，不另立一条玩法）。上段两则指数统计均为供应商自报。 |
+| URL | https://www.refolk.ai/blog/hacker-news-who-wants-to-be-hired-november-2026-sourcing ；https://www.refolk.ai/blog/hacker-news-who-wants-to-be-hired-sourcing-senior-engineers |
+| 现场核对 | 2026-11-11 打开 https://news.ycombinator.com/item?id=50338726 。标题 *Ask HN: Who wants to be hired? (November 2026)*，提交者 whoishiring，页面时间戳 2026-11-02T16:01:37，扫描日相对时间为 8 days ago（约 11 月 2–3 日）。帖顶模板为 Location / Remote / Willing to relocate / Technologies / Résumé/CV / Email。帖顶原文：只有本人正在找工作才发帖（Please only post if you are personally looking for work）；Agencies, recruiters, job boards, and so on, are off topic here；读者只为讨论工作机会才去信这些地址（please only email these addresses to discuss work opportunities）。找工作者被指向 https://www.wantstobehired.com 。文章引用的配套招聘帖 https://news.ycombinator.com/item?id=50338728 同日打开，标题为 *Ask HN: Who is hiring? (November 2026)*，相对时间同为 8 days ago。文章提到的公开解析站 hnhiring.com 与 nchelluri.github.io/hnjobs 只记为文中工具，本团队未跑。不摘录帖内个人资料。 |
+| 核心 | 这是少数工程师用自己的话写明要一份工作，并留下自己选择公开的联系地址的地方。十一月名单会过期：约 12 月 1 日十二月帖换上后，已入职的人很少回头改旧帖。Refolk 建议的节奏（当教程，不当本库已测 SOP）：第一周解析、核对、发第一封邮件；第二到三周跟进一次然后停；约 12 月 1 日打开新帖，再发的人视为仍在找，消失的人在下一封之前先核对。外联前打开对方链接的仓库，核对提交作者、近期活动、技术栈是否对得上，以及深度是否够所声称的级别；自称 shipped agents 的，应看得到真实框架和失败处理，而不是单层 API 包装。硬规则（帖顶 + 文章）：不要在 HN 评论树里发帖或回复，连打招呼也不要。只给对方自己公开的地址发信，且只谈一个真实岗位。不要把发帖人加进 newsletter、人才社区 drip 或自动序列。HN 读者会公开点名批量序列。S21 把「招聘方禁止在帖内发言」读成护城河而不是墙：禁的是在评论树里发，联系仍只走对方公开的邮箱。 |
+| 怎么用在我们这边 | 硅谷 AI / infra / founding engineer：由执行端（PI / 谷歌反重力，不是做寻访的招聘负责人）读当月帖，按栈和地点过滤，核对 GitHub 自述，对照电脑文件夹 / Google Drive / Notion 做全量查重（只算新名字；旧人出现在新文件里不算新），再起草一封短邮件：点明当月帖、对方代码里的一个具体细节、职位名、地点或远程、薪资范围。默认只起草，用户批准后再发。本人在该帖发帖，是正在看机会的 Active 证据；它不是公开中文证据，岗位要求中文时中文证据仍单独硬卡。红线：不登录用户本人的 LinkedIn，不从 commit 元数据捞邮箱。本扫描日是 2026-11-11，十一月帖已经超过一周，约 12 月 1 日前用完，之后改看十二月帖。 |
+
+#### 2. 高管任命新闻 X-ray（市场映射，不是找人字符串）
+
+| 字段 | 内容 |
+| --- | --- |
+| 出处 | 复用 S17。HeroHunt / Yuma Heymans, *X-Ray Search for Recruiters 2026: 50 Strings That Work*, String 46，2026-10-01。2026-11-10 WebFetch 全文，2026-11-11 沿用。不另编号。 |
+| URL | https://www.herohunt.ai/blog/x-ray-search-for-recruiters-2026-50-strings-that-work/ |
+| 核心 | 教程原文，本库未跑：`("joins" OR "appointed" OR "named") "as VP of Engineering" after:2026/06/01`。职称族按岗位替换（如 VP / Head / Director of Engineering，或相关的 AI、物流领导职称）。Google 文档将 `after:` 用于该日期之后更新的页面。这条打到的是近期高管任命的新闻。文章里的两个用法：刚到任的人短期内不太会再动；刚换领导的公司往往会重组，被换下的负责人和其直接下属在随后几个月值得一聊。先用它决定往哪瞄准，再用人找字符串（LinkedIn advice X-ray、GitHub、Scholar 等）找具体的人。与 B6 第 3 条互补：Greenhouse / Lever / Ashby 竞招板是需求，这条是领导层变动。 |
+| 怎么用在我们这边 | 硅谷 AI 或中国侧对外 BD 开跑前，用相关职称看谁刚加入 Dexmate / SiMa / Figure 一类公司或其同业，以及哪些团队可能在动。公司名喂回已拍板的「先公司池、再找人」（B2）。执行与全量查重仍交执行端。新闻提及 ≠ Active。外联仍先起草。不登本人 LI。 |
+
+#### 3. 高校实验室成员页：毕业前看到博士生
+
+| 字段 | 内容 |
+| --- | --- |
+| 出处 | 复用 S17，同一篇 HeroHunt 指南，String 48。 |
+| URL | https://www.herohunt.ai/blog/x-ray-search-for-recruiters-2026-50-strings-that-work/ |
+| 核心 | 教程原文：`site:edu (intitle:people OR intitle:members) "PhD student" "robot learning"`。主题按 JD 替换（robot learning、speech、computer vision 等）。`site:edu` 可换成 `site:ac.uk`、`site:ethz.ch` 等学术域；新加坡用院校域（B4 已记 Scholar 可用 `nus.edu.sg` / `ntu.edu.sg`，实验室页用同一批院校）。实验室页面会列出成员，包括临近毕业的博士生，并带导师和课题。文章把它当成入市前的预警，并建议毕业季之前的春天去看。与 B4 的 Scholar「Verified email at」加 arXiv `after:` 互补：那边是论文和已验证作者页，这边是还挂在名册上的人。 |
+| 怎么用在我们这边 | 研究科学家 / founding ML / 机器人（含新加坡覆盖）：执行端先标几所目标实验室，再交叉公开履历和 GitHub，并全量查重。挂在实验室页 ≠ Active，也不是公开中文证据。外联前确认此人确实接近市场。只起草。不登本人 LI。 |
+
+本场刻意不收录：B4 已入库的 `&udm=14`、Hugging Face、Scholar / arXiv；B5–B6 已入库的 GitHub 画像锚词、Sessionize、Kaggle、DEV / Medium、Meetup 公开活动页、Greenhouse / Lever / Ashby 竞招板。Wellfound `/p/` 在 B6 已写明未独立核验，本场仍不推荐。HeroHunt 仍示范的 LinkedIn 公共 title/location X-ray 维持不采纳。Doximity / NPI 不在目标市场。本场 X 搜索没有值得归档的从业者帖子（多为招聘广告）。
+
 ---
 
 ## C. Active 识别与评分（合辑）
@@ -239,3 +275,4 @@
 | 2026-11-10 上午场：`&udm=14` 经典 Web 结果 / Hugging Face 画像锚点 X-ray / Scholar「Verified email at」+ arXiv `after:` | **设想未复跑** | 第三方教程，见 B4；三条均未在 FORESTOWN 项目内复跑 |
 | 2026-11-10 下午场：GitHub `"followers" "following"` + `type:user` / Sessionize `intitle:"Speaker Profile"` / Kaggle 段位词 X-ray | **设想未复跑** | 第三方教程，见 B5；三条均未在 FORESTOWN 项目内复跑 |
 | 2026-11-11 上午场：DEV/Medium 写作者画像 X-ray / Meetup 公开活动页组织者与讲者 / Greenhouse·Lever·Ashby 竞招公司池 | **设想未复跑** | 第三方教程，见 B6；三条均未在 FORESTOWN 项目内复跑 |
+| 2026-11-11 下午场：HN 月度 Who wants to be hired 只读发信 / 高管任命新闻 X-ray / 高校实验室成员页 | **设想未复跑** | 第三方教程，见 B7；三条均未在 FORESTOWN 项目内复跑。2026-11-11 只核对了当月 HN 帖仍在且帖顶版规与文章一致 |

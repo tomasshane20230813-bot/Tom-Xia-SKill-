@@ -777,3 +777,7 @@
 ## 2026-11-10（Tue ~15:06 Asia/Shanghai，下午场）
 
 归档一行，不另起文章：B5 写入 [01](../knowledge/recruitment/01-sourcing-playbooks-and-sop.md)（GitHub `"followers" "following"` + `type:user`；Sessionize `intitle:"Speaker Profile"`；Kaggle Grandmaster/Master/Expert），来源 [05](../knowledge/recruitment/05-sources-index.md) S18 The Cognitive（发布 2026-10-04、更新 2026-11-04；2026-11-10 WebFetch 全文）与可选 S19 Talent Place（2026-07-14，仅 Kaggle 段位交叉，未整篇收为玩法）。第三方教程，未在 FORESTOWN Round 复跑。
+
+## 2026-11-11（Wed ~15:15 Asia/Shanghai，下午场）
+
+归档一行，不另起文章：B7 写入 [01](../knowledge/recruitment/01-sourcing-playbooks-and-sop.md)（HN 月度 Who wants to be hired 只读发信；高管任命新闻 X-ray String 46；高校实验室成员页 String 48），来源 [05](../knowledge/recruitment/05-sources-index.md) S20 Refolk（2026-11-04；2026-11-11 WebFetch 全文），S21 仅作资历与「禁令是护城河不是墙」交叉，HeroHunt 两串复用 S17。第三方教程，未在 FORESTOWN Round 复跑。2026-11-11 只独立核对了 https://news.ycombinator.com/item?id=50338726 仍在且帖顶版规与文章一致，未摘录发帖人资料。

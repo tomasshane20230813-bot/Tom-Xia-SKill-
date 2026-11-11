@@ -54,6 +54,9 @@
 - https://www.herohunt.ai/blog/x-ray-search-for-recruiters-2026-50-strings-that-work/ （S17；2026-11-10 WebFetch 全文）
 - https://thecognitive.io/blog/google-xray-search-recruiters （S18；2026-11-10 WebFetch 全文）
 - https://talentplace.com/blog/for-recruiters/where-to-find-ai-native-talent-beyond-linkedin/ （S19；仅 Kaggle 段位信号交叉，未整篇收为玩法）
+- https://www.refolk.ai/blog/hacker-news-who-wants-to-be-hired-november-2026-sourcing （S20；2026-11-11 WebFetch 全文）
+- https://www.refolk.ai/blog/hacker-news-who-wants-to-be-hired-sourcing-senior-engineers （S21；2026-11-11 WebFetch 全文；仅资历与禁令语境交叉，未另立玩法）
+- https://news.ycombinator.com/item?id=50338726 （2026-11-11 打开的十一月 Who wants to be hired 帖；只记录帖本身与版规，不摘录发帖人）
 
 **刻意不写金额的历史线索：** Rogo「D 轮/估值」等仅见二次摘要、无本包精确 URL，标为历史线索未再核。
 
@@ -108,7 +111,7 @@ Sengi 为 403：该灵感条目维持「设想 / 第三方」，本轮未读到�
 
 ## 4. 覆盖
 
-已覆盖窗口约 **2026-10-31 至 2026-11-11** 已取到的材料：GitHub 证据库玩法；灵感扫描 B1（2026-11-06 下午）、B2（2026-11-09 上午）、B3（2026-11-09 约 15:08 下午；第三方教程，未在项目内复跑）、B4（2026-11-10 约 10:05 上午；第三方教程，两篇均于 2026-11-10 WebFetch 全文，未在项目内复跑）、B5（2026-11-10 约 15:06 下午；第三方教程，The Cognitive 于 2026-11-10 WebFetch 全文，Talent Place 仅作 Kaggle 段位交叉说明，未在项目内复跑）、B6（2026-11-11 约 10:20 上午；复用 S17/S18 全文，选出此前未入库的字符串；未在项目内复跑）；Active + LI SOP；P0 六家带 URL 的信号与发送/未发送；多 Agent 业务边界；2026-11-08 反重力未完成验收；5 个用户 skills 原文；电话与外联默认表述。这不是全历史穷尽。
+已覆盖窗口约 **2026-10-31 至 2026-11-11** 已取到的材料：GitHub 证据库玩法；灵感扫描 B1（2026-11-06 下午）、B2（2026-11-09 上午）、B3（2026-11-09 约 15:08 下午；第三方教程，未在项目内复跑）、B4（2026-11-10 约 10:05 上午；第三方教程，两篇均于 2026-11-10 WebFetch 全文，未在项目内复跑）、B5（2026-11-10 约 15:06 下午；第三方教程，The Cognitive 于 2026-11-10 WebFetch 全文，Talent Place 仅作 Kaggle 段位交叉说明，未在项目内复跑）、B6（2026-11-11 约 10:20 上午；复用 S17/S18 全文，选出此前未入库的字符串；未在项目内复跑）、B7（2026-11-11 约 15:15 下午；S20 于 2026-11-11 WebFetch 全文，S21 仅作资历与禁令语境交叉，HeroHunt 两串复用 S17；当月 HN 帖已打开核对版规；方法未在项目内复跑）；Active + LI SOP；P0 六家带 URL 的信号与发送/未发送；多 Agent 业务边界；2026-11-08 反重力未完成验收；5 个用户 skills 原文；电话与外联默认表述。这不是全历史穷尽。
 
 ## 5. 缺口
 
@@ -124,6 +127,7 @@ Sengi 为 403：该灵感条目维持「设想 / 第三方」，本轮未读到�
 - 2026-11-10 上午场两条（Refolk *X-Ray Search in 2026*，2026-05-09；HeroHunt / Yuma Heymans *50 Strings*，2026-10-01；见文末 S16–S17）已于 2026-11-10 用 WebFetch 打开全文并写入精确 URL，不再属于「无精确 URL」类缺口。证据等级仍是第三方教程，未在 FORESTOWN Round 独立复跑。B1 所记 HeroHunt 2026-08 `symbol:`、ZenBee、Work Insiders 仍无精确文章 URL。本轮未重跑 2026-11-09 融资/招聘板 HTTP 链接检查。
 - 2026-11-10 下午场（The Cognitive *30 Google X-Ray Search Strings Beyond LinkedIn*，发布 2026-10-04、更新 2026-11-04；见文末 S18）已于 2026-11-10 用 WebFetch 打开全文并写入精确 URL。可选交叉 S19（Talent Place *Where to Find AI-Native Talent Beyond LinkedIn*，2026-07-14）仅作 Kaggle 段位信号说明，未整篇收为玩法。证据等级仍是第三方教程：作者自述未在登出浏览器复跑全部字符串，本库也未在 FORESTOWN Round 独立复跑这些搜索串。本轮未重跑 2026-11-09 融资/招聘板 HTTP 链接检查。
 - 2026-11-11 上午场没有新的主 URL，复用 S17 与 S18；选出此前未入库的字符串。本场未做新的融资/招聘板 HTTP 链接检查。当日 X 搜索没有值得归档的从业者帖子（多为招聘广告）。证据等级仍是第三方教程：本场复核已打开的指南页面仍是同一篇，字符串未在登出浏览器或 FORESTOWN Round 独立复跑。
+- 2026-11-11 下午场（约 15:15 Asia/Shanghai；见文末 S20，以及仅作交叉的 S21）已用 WebFetch 打开两篇 Refolk 全文。HeroHunt String 46 与 String 48 复用 S17，不新编号。同日打开 https://news.ycombinator.com/item?id=50338726 ，核对帖仍在且帖顶版规与文章一致；未摘录发帖人。Refolk 指数统计（标题里的 1/2,740、发帖人平均约 9 年）是供应商自报，本库未复核。证据等级仍是第三方教程，未在 FORESTOWN Round 独立复跑。本场未做新的融资/招聘板 HTTP 链接检查。当日 X 搜索没有值得归档的从业者帖子（多为招聘广告）。Wellfound `/p/` 仍不推荐。
 
 ## 追加来源（2026-11-09 下午场灵感扫描）
 
@@ -169,3 +173,20 @@ S18 于 2026-11-10 WebFetch 全文。S19 未整篇收为玩法，只交叉说明
 ## 追加来源（2026-11-11 上午场）
 
 本场不新编号。复用已有 S17（HeroHunt / Yuma Heymans, *X-Ray Search for Recruiters 2026: 50 Strings That Work*，https://www.herohunt.ai/blog/x-ray-search-for-recruiters-2026-50-strings-that-work/）与 S18（Sparsh Goyal / The Cognitive, *30 Google X-Ray Search Strings Beyond LinkedIn (2026)*，https://thecognitive.io/blog/google-xray-search-recruiters）。两篇均于 2026-11-10 WebFetch 全文；2026-11-11 约 10:20 Asia/Shanghai 复核后页面仍是同一指南，选出此前未入库的字符串（DEV/Medium 写作者画像、Meetup 公开活动页组织者与讲者、Greenhouse / Lever / Ashby 竞招公司池）。字符串未在登出浏览器或 FORESTOWN Round 独立复跑。证据等级：第三方方法（教程自报）。不复制凭证、候选人资料或供应商内部手册。
+
+## 追加来源（2026-11-11 下午场灵感扫描）
+
+| ID | 类型 | 对象 | 日期 | 方式 |
+| --- | --- | --- | --- | --- |
+| S20 | 公开指南 | Refolk, Only 1 in 2,740 US Engineers Says 'Open to Work.' Read HN Before December | 2026-11-04；扫描 2026-11-11 | WebFetch 全文 |
+| S21 | 公开指南 | Refolk, HN's "Who Wants to Be Hired" Is 9-Year Seniors. Recruiters Are Banned. | 2026-09-20；扫描 2026-11-11 | WebFetch 全文；仅资历与「禁令是护城河不是墙」交叉，未另立玩法 |
+
+URL：
+- https://www.refolk.ai/blog/hacker-news-who-wants-to-be-hired-november-2026-sourcing
+- https://www.refolk.ai/blog/hacker-news-who-wants-to-be-hired-sourcing-senior-engineers
+- 现场帖：https://news.ycombinator.com/item?id=50338726 （2026-11-11 打开；提交者 whoishiring；页面时间戳 2026-11-02T16:01:37；只记录帖与版规，不摘录发帖人）
+- 文章所引配套招聘帖：https://news.ycombinator.com/item?id=50338728 （同日打开；标题 *Ask HN: Who is hiring? (November 2026)*；不摘录帖内内容）
+
+HeroHunt String 46（高管任命新闻）与 String 48（高校实验室成员页）复用 S17，不新编号：https://www.herohunt.ai/blog/x-ray-search-for-recruiters-2026-50-strings-that-work/
+
+S20 于 2026-11-11 WebFetch 全文。S21 同日 WebFetch 全文，只作资历与禁令语境的交叉，不另立玩法。证据等级：第三方方法（教程自报）。Refolk 指数统计（标题里的约 1/2,740、发帖人平均约 9 年，后者为文中转述 HireIndex）是供应商自报，本库未复核。2026-11-11 独立核对的只有：十一月 Who wants to be hired 帖仍在，帖顶版规与文章所述一致。未在 FORESTOWN Round 独立复跑。不复制凭证、候选人资料或供应商内部手册。本场不重推 B4–B6 已入库条目，也不推荐 Wellfound `/p/`。当日 X 搜索没有值得归档的从业者帖子（多为招聘广告）。
