@@ -22,7 +22,7 @@ source_type: observed-working-method
 - 地点、公司、语言等级、证书、学历年份，只采用页面上没有被星号遮住的文字。
 - `****` 遮住的职位、日期不要还原。
 - 搜索摘要只能证明“这个 URL 被公开索引到”，不能代替档案正文。
-- 没有 Open to work、actively seeking、seeking new opportunities 等本人原文时，Active 写未证实。
+- Active 看机会先按 `linkedin-activity-as-active`：近 90 天可核验的领英公开活动就记为 active看机会，并写上证据类型和日期。没有这类证据时写未证实。页面上没有 Open to work 原文时，不要编这句原文。
 - 不根据姓名判断族裔、国籍或语言。语言只认 Languages 栏或正文里的文字。
 
 ## 不要做

@@ -13,6 +13,7 @@ This public GitHub repository is a single source of reusable recruiting practice
 
 ## Newly imported skills
 
+- [linkedin-activity-as-active](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/linkedin-activity-as-active/SKILL.md)：近 90 天可核验的领英公开活动，按 Tom 2026-11-11 口径记为 active看机会。
 - [active-candidate-evidence](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/active-candidate-evidence/SKILL.md)
 - [agent-orchestration](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/agent-orchestration/SKILL.md)
 - [bd-market-signals](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/bd-market-signals/SKILL.md)

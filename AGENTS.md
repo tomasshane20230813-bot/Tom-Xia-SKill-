@@ -10,6 +10,7 @@ Purpose: public, vendor-neutral global recruiting knowledge for ChatGPT, Gemini,
 5. playbook/ and bd/ (original workflows, not replaced here)
 
 ## Mandatory evidence practices
+- Tom 2026-11-11 rule: verified LinkedIn public activity within 90 days is recorded as active看机会. Read skills/linkedin-activity-as-active/SKILL.md. Do not invent dates or Open to Work quotes.
 - Keep job-fit score out of 100 separate from Active job-search confidence out of 10.
 - Do not assume recruiter-only status, nationality, ethnicity, age, private phone numbers, salary or real willingness to change roles.
 - Use factual sources, dates, LinkedIn URLs, evidence levels and a list of information to verify.
