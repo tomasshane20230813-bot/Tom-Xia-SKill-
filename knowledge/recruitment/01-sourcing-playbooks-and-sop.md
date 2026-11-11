@@ -151,6 +151,39 @@
 
 本场刻意不收录：SocialTalent 仍示范失效的 LinkedIn 公共 title/location X-ray；Doximity/NPI（非我们目标市场）；Wellfound `/u/`（robots 已挡）；Meetup 需登录的会员页；Talent Place 的 Discord/Product Hunt 观察法（偏关系运营、非立刻可复用搜索串）。GitHub Acceptable Use 禁止用其数据做 spam / 未征询邮件；外联仍默认只起草、经用户批准后再发，且不从 commit 元数据捞邮。
 
+### B6. 2026-11-11 上午场（灵感扫描；第三方方法，未宣称项目内跑通）
+
+扫描日：2026-11-11 约 10:20 Asia/Shanghai。与 B1–B5 不重复。证据等级：第三方方法（教程自报）；所用指南已于 2026-11-10 WebFetch 全文（S17、S18），本场复核后选出此前未入库的字符串。未在 FORESTOWN Round 独立复跑。下列搜索串是教程原文，不是本库已跑通的结果。
+
+#### 1. DEV / Medium 写作者画像 X-ray：用页面专有标签找公开写技术的人，文章当外联开场
+
+| 字段 | 内容 |
+| --- | --- |
+| 出处 | Sparsh Goyal / The Cognitive, *30 Google X-Ray Search Strings Beyond LinkedIn (2026)*, 发布 2026-10-04、更新 2026-11-04，Strings 16–19；交叉 HeroHunt / Yuma Heymans, *X-Ray Search for Recruiters 2026: 50 Strings That Work*, String 19（DEV）与 String 34（Medium/Substack 写法），Oct 1, 2026 |
+| URL | https://thecognitive.io/blog/google-xray-search-recruiters ；https://www.herohunt.ai/blog/x-ray-search-for-recruiters-2026-50-strings-that-work/ |
+| 核心 | Medium 作者页在 `/@` 下：`site:medium.com/@ "staff engineer" "Kubernetes"`。带时效的主题文：`site:medium.com "engineering manager" ("hiring" OR "onboarding") "platform team" after:2025`。DEV 画像用只有主页才有的标签，把帖子挤掉：`site:dev.to "Location" "Joined" "Singapore" ("TypeScript" OR "React")`；填了雇主的人：`site:dev.to "Work" "Joined" "Rust" ("San Francisco" OR "Bay Area")`。HeroHunt 示范的锚词是 `"Joined on"`（`site:dev.to "Joined on" ("Rust" OR "WebAssembly") "Berlin"`），与 The Cognitive 的 `"Joined"` / `"Location"` / `"Work"` 不完全相同，执行时先打开 2–3 个真实 DEV 画像核对当前标签再定串。公开文章可当评估沟通能力的材料和外联第一句。 |
+| 怎么用在我们这边 | 硅谷 AI / 工程岗在 LinkedIn 公共 title 过滤弱化后，把 DEV/Medium 当「会把工作写清楚」的补充池；执行端（PI / 谷歌反重力）出名单后，外联草稿点名一篇具体文章，不登本人 LI。写作 ≠ Active，也不是公开中文证据。全量查重仍交执行端。 |
+
+#### 2. Meetup 公开活动页找组织者/讲者（不要搜需登录的会员页）
+
+| 字段 | 内容 |
+| --- | --- |
+| 出处 | 同上 The Cognitive，Strings 26–27 |
+| URL | https://thecognitive.io/blog/google-xray-search-recruiters |
+| 核心 | Meetup 会员页检查时要登录，所以不要 X-ray 会员主页。改打公开的群组/活动页，上面会写组织者和讲者：`site:meetup.com "Python" "Singapore" ("organizer" OR "organized by")`；讲者：`site:meetup.com "Rust" "Berlin" ("speaker" OR "talk by")`。教程原话：本地技术活动组织者往往认识你想找的那一半人，即使本人不是目标人选也值得记下。记下名字后再交叉 GitHub / 公开履历。这与 B5 的 Sessionize（正式会议讲者画像）互补：一边是大会讲者，一边是本地 meetup 节点。 |
+| 怎么用在我们这边 | 亿联马来/新加坡、香港、澳洲等利基市场，先扫当地 Python/云/物流科技 meetup 的组织者与活动讲者，再 enrichment。执行与全量查重交给执行端。红线：不登本人 LI，也不为了翻会员页去登录用户本人账号。组织活动 ≠ Active，公开中文证据仍单独硬卡。外联仍先起草、经批准再发。 |
+
+#### 3. 竞招公司池：在 Greenhouse / Lever / Ashby 公开职位板上搜正在招同一画像的公司
+
+| 字段 | 内容 |
+| --- | --- |
+| 出处 | HeroHunt / Yuma Heymans, *X-Ray Search for Recruiters 2026: 50 Strings That Work*, String 49, Oct 1, 2026 |
+| URL | https://www.herohunt.ai/blog/x-ray-search-for-recruiters-2026-50-strings-that-work/ |
+| 核心 | 一次搜三家常见创业公司 ATS 托管域：`(site:job-boards.greenhouse.io OR site:jobs.lever.co OR site:jobs.ashbyhq.com) "machine learning engineer" "Singapore"`。结果是正在招同一画像的在线职位，不是候选人名单。用途：看见竞争对手怎么写 JD、公开薪资/福利/技术栈，并把公司名喂回已拍板的「Title Boolean 失灵时先建公司池再找人」（B2）。职位挂很久的团队，工程师可能更累、更愿意聊。这是市场映射，不是进人。 |
+| 怎么用在我们这边 | SwiftX / Yealink 利基岗和硅谷 AI 岗，Round 前用这条把「谁在抢同一类人」做成公司池，再交给执行端按公司找人并全量查重。也可给 BD 校准话术（栈、地点、职责写法）。公司在招 ≠ 池里的人 Active。不把职位页上的候选人申请数据当来源。 |
+
+本场刻意不收录：B4 已入库的 Hugging Face / Scholar / arXiv / `&udm=14`；B5 已入库的 GitHub 画像锚词、Sessionize、Kaggle，以及已写在 B5.1 核心里的 `site:github.io` 简历串；HeroHunt 仍示范的 LinkedIn 公共 title/location X-ray；Doximity；需登录的 Meetup 会员页；Wellfound `/u/`（robots 已挡；`/p/` 路径本场未独立核验，不推荐）。GitHub AUP 禁止用其数据做未征询邮件；外联默认只起草。
+
 ---
 
 ## C. Active 识别与评分（合辑）
@@ -205,3 +238,4 @@
 | 2026-11-09 下午场：八刀切割 / 中星仓 reviewer / Stack Overflow 用户页 X-ray | **设想未复跑** | 第三方教程，见 B3；未在项目内复跑 |
 | 2026-11-10 上午场：`&udm=14` 经典 Web 结果 / Hugging Face 画像锚点 X-ray / Scholar「Verified email at」+ arXiv `after:` | **设想未复跑** | 第三方教程，见 B4；三条均未在 FORESTOWN 项目内复跑 |
 | 2026-11-10 下午场：GitHub `"followers" "following"` + `type:user` / Sessionize `intitle:"Speaker Profile"` / Kaggle 段位词 X-ray | **设想未复跑** | 第三方教程，见 B5；三条均未在 FORESTOWN 项目内复跑 |
+| 2026-11-11 上午场：DEV/Medium 写作者画像 X-ray / Meetup 公开活动页组织者与讲者 / Greenhouse·Lever·Ashby 竞招公司池 | **设想未复跑** | 第三方教程，见 B6；三条均未在 FORESTOWN 项目内复跑 |

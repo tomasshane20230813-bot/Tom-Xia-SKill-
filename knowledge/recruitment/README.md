@@ -4,7 +4,7 @@
 - **内容性质：** 业务知识汇总（寻访玩法、BD 情报状态、多 Agent 协作约定、长期规则与可复用 skills）
 - **证据口径：** 区分「已验证 / 公开来源可回访 / 历史线索未再核 / 设想或灵感 / 未完成」
 - **脱敏约定：** 不含凭据、工作邮箱/电话、候选人个人资料、私有聊天原文、本机私密路径；不含系统提示或隐藏指令
-- **覆盖窗口：** 约 2026-10-31 至 2026-11-10 已取到的材料（以各文件内日期为准），含 **2026-11-09 下午场**灵感扫描（约 15:08 Asia/Shanghai；三条均写入 [01](01-sourcing-playbooks-and-sop.md) B3 与 [05](05-sources-index.md)）、**2026-11-10 上午场**（约 10:05 Asia/Shanghai；三条均写入 [01](01-sourcing-playbooks-and-sop.md) B4 与 [05](05-sources-index.md)）与 **2026-11-10 下午场**（约 15:06 Asia/Shanghai；三条均写入 [01](01-sourcing-playbooks-and-sop.md) B5 与 [05](05-sources-index.md)）。证据等级为第三方教程，未在项目内复跑。不表示全历史穷尽。
+- **覆盖窗口：** 约 2026-10-31 至 2026-11-11 已取到的材料（以各文件内日期为准），含 **2026-11-09 下午场**灵感扫描（约 15:08 Asia/Shanghai；三条均写入 [01](01-sourcing-playbooks-and-sop.md) B3 与 [05](05-sources-index.md)）、**2026-11-10 上午场**（约 10:05 Asia/Shanghai；三条均写入 [01](01-sourcing-playbooks-and-sop.md) B4 与 [05](05-sources-index.md)）、**2026-11-10 下午场**（约 15:06 Asia/Shanghai；三条均写入 [01](01-sourcing-playbooks-and-sop.md) B5 与 [05](05-sources-index.md)）与 **2026-11-11 上午场**（约 10:20 Asia/Shanghai；三条均写入 [01](01-sourcing-playbooks-and-sop.md) B6 与 [05](05-sources-index.md)）。证据等级为第三方教程，未在项目内复跑。不表示全历史穷尽。
 - **仓库入口：** [根 README](../../README.md)
 
 ## 目录
