@@ -747,3 +747,37 @@
 - backdoor 类拼图补完：10-29 合同条款（写什么）→ 11-01 追踪（事后怎么查）→ 本轮费用先行（递交时顺序）+ 50% 第二个（查到别停）。该主题四块齐了，以后除非全新招式否则不发，先 grep 日志。
 - web 搜索的 recruiter 通用关键词已高度饱和（本轮 body 兜底词返回的 4 条里 0 条新入选，全部去重）——继续优先"黑话+场景"关键词（benchmarking、cold call objection、upsell 场景词），body 通用词只作兜底。
 - 待挖专题更新：backdoor 已封顶；guarantee 期谈判（agency 侧增量封顶）、拖欠费用催收（暂停）、"递简历时加 context narrative 帮 AI 解析"薄备选、Randstad 86.9% 私人邮箱数据弹药备选、Glozo "Level 2 存档搜索档案"备选、AMMANI "HM 拒人反馈重跑搜索"备选、Cleverly "第二供应商定位 + PSL 评审窗口 timing"备选、Echo Recruit "forced-choice 权重排序"备选、Chandler Bolt "客户眼里的猎头费"备选、Wilson Cole "stealth hire 换 title 入职"备选——均未变。
+
+## 2026-11-09（Mon ~15:08 Asia/Shanghai，下午场例行「猎头玩法灵感扫描」）
+
+来源组合：WebSearch（Boolean/X-ray、GitHub sourcing、Tegze/Sengi）+ WebFetch 全文 3 篇（Refolk teardown、ConnectDevs GitHub guide、Tegze Boolean commoditization 作对照）+ X search_posts_all / search_news（近 7 日 recruiter sourcing；本轮 X 侧无独立可操作新招，多为招人广告/通用观点）。上午场已发三条（advice X-ray / Sengi market size / 公司池）本轮去重。
+
+### ✅ 入选（发给 Tom，共 3 条）
+
+1. **单仓贡献者八刀切割 → 15–25 人可触达短名单**（refolk.ai/guides/contributor-sourcing-teardown-ranked-slate，last reviewed 2026-10-25；WebFetch 全文）
+   - 留：GitHub 证据库深化——已拍板「用 GitHub 当工作证据」后的可执行切割日志：anon=true / shortlog 补全作者、先解析 Co-authored-by 再删 bot、squash 仓按 merged PR 切 casual、雇主两信号、只用自公开联系方式、CODEOWNERS/review 定 owner。与上午 advice X-ray 不重叠。
+2. **中等星标仓 + Reviewer + ≤120 词点名 PR 外联**（connectdevs.com/blog/how-to-source-developers-on-github，2026-10-19/25；WebFetch 全文）
+   - 留：repo-first 战术补丁——`stars:10..500` 避名仓拥堵；reviewers 作 senior 信号；外联字数与「一条真实贡献」硬规则，贴合先草稿后批。
+3. **Stack Overflow 用户页 X-ray（tag + 声誉）**（pin.com/blog/x-ray-search-recruiters/；搜索摘要核验要点）
+   - 留：LinkedIn 公共 title 过滤弱化后的第二证据池；可叠地点词；明确不能单独当 Active。附带 filetype:pdf -template -sample 作开网简历补充（非技术岗曾提过 PDF 线，本条落在 SO 用户页主招）。
+
+### ❌ 筛掉（原因）
+
+- Jan Tegze「Boolean 被 AI 商品化 → intake/problem definition」（newsletter 2026-05-31）：有洞见，但与上午 Sengi「market size + 边界人校准 brief」同族，下午场不重复推。
+- HeroHunt / Talentprise 仍推 `site:linkedin.com/in` title 过滤：与已确认「LI 公共索引弱化」及上午 fragile 结论冲突或过时——筛。
+- X 近 7 日 sourcing 帖：无具体可复制步骤（招人广告、通用 AI 替代论、CV analyzer 提示词面向求职者）——方向反或不达标。
+- SourceGeek / 纯厂商「AI Agent 代搜 GitHub」落地页：无免费可抄切割步骤，被 Refolk/ConnectDevs 覆盖。
+
+### 本轮复盘
+
+- 技术岗 GitHub 线从「要不要用」进入「怎么从一仓切到可触达 slate」——八刀日志值得并入 github-evidence-sourcing 实操附录（仍标第三方未复跑）。
+- 外联字数帽（≤120）与 LI InMail ~1900 红线是不同渠道；GitHub/邮件侧用更短。
+- 归档：并入 knowledge/recruitment 主题文档 + playbook-sweep-log；不新建零散文件；保留分支/PR，不擅自合并 main。
+
+## 2026-11-10（Tue ~15:06 Asia/Shanghai，下午场）
+
+归档一行，不另起文章：B5 写入 [01](../knowledge/recruitment/01-sourcing-playbooks-and-sop.md)（GitHub `"followers" "following"` + `type:user`；Sessionize `intitle:"Speaker Profile"`；Kaggle Grandmaster/Master/Expert），来源 [05](../knowledge/recruitment/05-sources-index.md) S18 The Cognitive（发布 2026-10-04、更新 2026-11-04；2026-11-10 WebFetch 全文）与可选 S19 Talent Place（2026-07-14，仅 Kaggle 段位交叉，未整篇收为玩法）。第三方教程，未在 FORESTOWN Round 复跑。
+
+## 2026-11-11（Wed ~15:15 Asia/Shanghai，下午场）
+
+归档一行，不另起文章：B7 写入 [01](../knowledge/recruitment/01-sourcing-playbooks-and-sop.md)（HN 月度 Who wants to be hired 只读发信；高管任命新闻 X-ray String 46；高校实验室成员页 String 48），来源 [05](../knowledge/recruitment/05-sources-index.md) S20 Refolk（2026-11-04；2026-11-11 WebFetch 全文），S21 仅作资历与「禁令是护城河不是墙」交叉，HeroHunt 两串复用 S17。第三方教程，未在 FORESTOWN Round 复跑。2026-11-11 只独立核对了 https://news.ycombinator.com/item?id=50338726 仍在且帖顶版规与文章一致，未摘录发帖人资料。

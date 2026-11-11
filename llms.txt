@@ -7,6 +7,11 @@ Agent instructions: https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blo
 Unified knowledge: https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/ALL_AI_KNOWLEDGE.md
 Skill index: https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/INDEX.md
 Existing playbook: https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/playbook/playbook-sweep-log.md
+Recruitment theme docs: knowledge/recruitment/README.md (includes 2026-11-09 PM scan; third-party tutorials, not verified in-project)
+2026-11-10 AM scan (B4): knowledge/recruitment/01-sourcing-playbooks-and-sop.md (third-party tutorials, not verified in-project)
+2026-11-10 PM scan (B5): knowledge/recruitment/01-sourcing-playbooks-and-sop.md (third-party tutorials, not verified in-project)
+2026-11-11 AM scan (B6): knowledge/recruitment/01-sourcing-playbooks-and-sop.md (third-party tutorials, not verified in-project)
+2026-11-11 PM scan (B7): knowledge/recruitment/01-sourcing-playbooks-and-sop.md (third-party tutorials, not verified in-project)
 Existing BD: https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/tree/main/bd
 
 Skills:
