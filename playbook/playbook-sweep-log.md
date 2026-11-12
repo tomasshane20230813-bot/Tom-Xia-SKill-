@@ -747,3 +747,95 @@
 - backdoor 类拼图补完：10-29 合同条款（写什么）→ 11-01 追踪（事后怎么查）→ 本轮费用先行（递交时顺序）+ 50% 第二个（查到别停）。该主题四块齐了，以后除非全新招式否则不发，先 grep 日志。
 - web 搜索的 recruiter 通用关键词已高度饱和（本轮 body 兜底词返回的 4 条里 0 条新入选，全部去重）——继续优先"黑话+场景"关键词（benchmarking、cold call objection、upsell 场景词），body 通用词只作兜底。
 - 待挖专题更新：backdoor 已封顶；guarantee 期谈判（agency 侧增量封顶）、拖欠费用催收（暂停）、"递简历时加 context narrative 帮 AI 解析"薄备选、Randstad 86.9% 私人邮箱数据弹药备选、Glozo "Level 2 存档搜索档案"备选、AMMANI "HM 拒人反馈重跑搜索"备选、Cleverly "第二供应商定位 + PSL 评审窗口 timing"备选、Echo Recruit "forced-choice 权重排序"备选、Chandler Bolt "客户眼里的猎头费"备选、Wilson Cole "stealth hire 换 title 入职"备选——均未变。
+
+## 2026-11-10（Tue 08:24 CST，第二十三轮）
+
+来源组合：browser.search x7（off-limits 冲突管理 / gatekeeper 冷电话 / 三方薪资谈判 / 拒掉候选人保温 / body 兜底 recruiter AI sourcing tactics 2026 / QBR 客户留存 / 入职后保证期触点）+ browser.open 全文核验 3 篇（TopEchelon gatekeeper 全文 201 行、LevelUp 谈判全文 144 行、identifyd 触点表全文 79 行）+ social.search x1（4 条 semantic queries：backdoor hire spec CV / solo recruiter AI agents / headhunter cold call gatekeeper / recruiter salary negotiation BATNA，since 2026-05-10，corpus 全文已读 479 行）。
+
+### ✅ 发给 Tom（2 条，≤3 上限）
+
+1. **冷电话先过秘书/总机那关：Michael Homula 四步法，不编借口、拿"敏感保密"顶回去**（topechelon.com/blog/successful-recruiting-scripts/，原文 2020-06-05、2026-06-07 更新，全文已核验）
+   - 留：BD 冷电话类——新子类别（11-01 Longlist 是"跟 HM 说什么"、11-09 Cleverly 是"异议表"，这篇是"还没见到 HM 之前先过接电话的人"，链条上缺的那环）。四步全是逐字脚本：① 先摸清对方怎么被训练来挡电话（找个当过秘书的人问）；② "gatekeeper dance"——直呼目标人名字、不提问只陈述（"Good morning; Barbara please."），用名字+权威感卸掉对方盘问；③ pattern interrupt——先问"请问您是哪位？"拿到对方名字、再报自己名字（对方脚本被打断，变成跟"Jim 这个人"说话）；④ 老手追问"到底什么事"时不编借口："我的电话涉及高度敏感和保密的事，必须先跟 Barbara 本人谈，她来决定要不要让您参与"——秘书不敢替老板挡"敏感"的事，转接时还会原话传过去，反而勾起对方接电话的兴趣。Tom 的 BD 电话打到公司总机/助理手里时直接可用；也适用于打给候选人现雇主总机摸人的场景。诚实标注：原文 2020 年、2026 年 6 月更新，是经典方法重提（沿用 10-26 Menemsha 披露惯例），价值在逐字脚本而非新数据。
+2. **人入职了才算走完一半：offer 接受→保证期结束的 7 次触点表**（identifyd.com/article/new-hire-touch-plan，2024-02-23 发布、2026-10-23 更新，全文已核验）
+   - 留：成交后/保证期类——10-25 RippleHire（notice 期三阶段，管到入职）的下半场，这篇管入职后到保证期结束，不重复。时间表：辞职当晚一通（"还价了吗？"）、notice 期每周一通、入职前一天确认 logistics、首日结束+首周结束各一通（问"有什么跟你预期的不一样，好坏都说"）、30/60/90 天候选人和 HM 各查一次（分开查，两边才说真话）、保证期结束谢双方+问客户"接下来团队还有什么动向"。关键问句："老东家后来还有联系你吗？"（counteroffer 活线头）、"角色跟你预期的有什么不一样？"。Tom 的 contingency 保证期 90 天内人走了=免费重找，这套等于给每个 placement 上保险；保证期结束那通"接下来还有什么"本身就是下一单的开口。诚实标注：identifyd 是卖背调/核查工具的厂商博客，末段推自家产品，只取时间表+问句；与 10-25 RippleHire 的区别已在正文里写明，避免 Tom 觉得重复。
+
+### ❌ 筛掉（原因）
+
+- LevelUp HR Academy《Negotiation in Recruiting: Arbitrate, Anchor, and Hold the Tension》（2026-04-27 发布、07-24 更新，全文已核验）：agency 侧三方薪资谈判框架——"猎头是仲裁者不是某一方代言人、薪资是带不是数、双边 BATNA 画出来再谈、非薪变量凑价值"。概念正确，但全文无逐字话术、无步骤清单，是 think-piece 不是 playbook；锚定部分被 10-23 counteroffer 锚定篇覆盖，intake 测天花板被 11-09 RecruiterFlow 薪资基准篇覆盖——按"道理非招式"筛掉。记备选：双边 BATNA 对照表（候选人备选：别家 offer/留任/继续找；客户备选：另一 finalist/重开 req/暂缓）可并入以后薪资谈判专题。
+- off-limits 搜索（bycatch.app 两篇 + blairwest.co.uk）：Bycatch 是卖 Chrome 插件的厂商文（£30/月起，在 LinkedIn  profile 上标禁挖公司），Blair West 是 retained 猎头公司的通用科普（12–24 个月保护期、先来客户优先、事后披露冲突）。Tom 是 solo，没有团队需要强制执行名单、也不用向多人同步——"记一张禁挖公司表"对他是一句话常识，且他禁挖的无非就是 Yealink/Chamet 等现有客户，脑子里有数；唯一 nugget"off-limits 保护本身是卖点（客户会问你怎么保护我方员工）"太薄——筛掉。
+- 拒掉候选人保温搜索（hirezapp / axterior / resumly.ai / adaface）：全部雇主侧（ATS 里给落选者打标签、3/6 个月自动 nurture、talent community），Tom 的等价动作是 silver medalist 再激活（10-21、10-23 已覆盖），且他拒人是客户拒人、不是他自己批量拒——场景不匹配，无增量。
+- QBR/客户留存搜索（getopenava / latoyamckenzie / agencypro / amplifyscales）：全部是营销 agency / SaaS CS 的 QBR 打法（客户健康分 5 信号、按收入分层定 QBR 节奏、续约前 60 天五步流程）。Tom 是纯 contingency、无 retainer 合同、无续约周期——QBR 没有动作插槽（沿用 10-27"没有对应运营动作就不发"结论）。该角度对 contingency 猎头不成立，放弃。
+- body 兜底关键词（recruiter AI sourcing tactics 2026）：返回 4 条全部是已筛过的——sapia.ai（第 5 次出现）、metaview.ai（11-07/11-08 已筛）、skima.ai（11-07 已筛）、tutorials.technology（11-04/11-06 已筛）——去重，body 通用词饱和结论再次验证。
+- social 36 条：Wilson Cole backdoor 系列继续刷屏（11-01/11-09 已发 backdoor 主题，去重；其中两个新 nugget 记备选：① "客户说人选是偷来的，先祝贺他招到人、再把账单寄过去，约 50% 的公司会付"——催收话术，单点+卖家数据，太薄；② "LinkedIn 抓不到所有 backdoor——候选人不更新 LinkedIn，要去公司官网/行业公告找信号"——与 11-01 追踪篇同方法不同信号源，太薄）；ajsahni.ai 35 agents（10-17 起多次筛：营销演示无步骤）；RChilli MCP agent（厂商 promo，comment 拿 demo 钩子）；Rakam Recruiter Agent（韩语 Threads 厂商截图，无步骤）；ifmosawork 冷电话（求职者视角打给 HM 要面试——方向反了）；Staxxd 喜剧 skit（娱乐无招式）；jobs_easy_for_you 招聘广告（疑似欺诈）；JustDCA（backdoor 厂商广告，11-01 已记）。social 本轮零独立入选——连续 23 轮 social 独立入选累计仍 8 条（@orfena、Bill Ings、Recruiter Ram、Wilson Cole、DeepRec.ai、abumusabusiness、alexlieb、11-09 Wilson Cole 费用先行），维持最低投入。
+
+### 本轮复盘
+
+- 成交链拼图再补两块：gatekeeper（BD 电话链上游）+ 保证期触点表（placement 之后）。成交/交付链至此：pre-close（10-27）→ counteroffer 锚定（10-23）→ notice 期三阶段（10-25）→ 保证期触点（本轮）→ 费率谈判（10-26）→ 合同条款（10-29）→ backdoor 防查追（11-01/11-09）。以后成交类除非全新招式否则不发，先 grep 日志。
+- "黑话+场景"关键词继续有效：本轮 2 条入选全部来自新角度关键词（gatekeeper、post-placement touch plan），body 兜底词 0 入选——第 23 轮仍是这个格局，body 四组通用词正式降级为纯兜底。
+- LevelUp 证明 agency 侧薪资谈判内容存在但形态是框架文：以后薪资谈判专题要找带逐字脚本/清单的，不要框架文；BATNA 双边对照表已记备选。
+- QBR 角度证伪：retainer/CS 模型的内容对 contingency solo 猎头没有动作插槽——以后不再试 QBR/续约类关键词。
+- social 上 Wilson Cole 已刷屏到"同一主题出现 10 次以上"：backdoor 主题彻底消费完，新 nugget 只记备选不再成条；social 关键词保留 backdoor hire / spec CV / MPC 黑话，但期望值已是最低档。
+- 待挖专题更新：backdoor 已封顶；guarantee 期谈判（agency 侧增量封顶）、拖欠费用催收（暂停）未变；备选新增：LevelUp 双边 BATNA 对照表、Wilson Cole"祝贺+寄账单 50% 会付"、Wilson Cole"LinkedIn 之外找 backdoor 信号（公司官网/行业公告）"；旧备选未变（"递简历时加 context narrative 帮 AI 解析"、Randstad 86.9% 私人邮箱、Glozo "Level 2 存档搜索档案"、AMMANI "HM 拒人反馈重跑搜索"、Cleverly "第二供应商定位 + PSL 评审窗口 timing"、Echo Recruit "forced-choice 权重排序"、Chandler Bolt "客户眼里的猎头费"、Wilson Cole "stealth hire 换 title 入职"）。
+2026-11-10T08:24:00+08:00 本轮: 无够格发现，已静默。
+
+## 2026-11-11（Wed 08:24 CST，第二十四轮）
+
+来源组合：browser.search x4（body 兜底 1 组 recruiter AI sourcing tactics 2026；新角度 3 组：split fee placement / AI notetaker intake call / second supplier PSL timing）+ browser.open 全文核验 2 篇（aiwithmichal split fee 全文 204 行、noterai 全文 276 行）+ social.search x1（4 条 semantic queries：backdoor hire spec CV / solo recruiter AI agents / headhunter cold call gatekeeper / recruiter split fee collaboration，since 2026-05-11，corpus 全文已读 670 行，48 条）。
+
+### ✅ 发给 Tom（2 条，≤3 上限）
+
+1. **分单费（split fee）：填不上的单子别硬扛，分一半给有人的同行**（aiwithmichal.com/ai-glossary-in-practice/split-placement-fee-agency，2026-05-08 更新，全文已核验）
+   - 留：商务/合作类——24 轮里第一次出现"同行分单"类别。核心：一家拿单（job-order recruiter，有客户关系和职位），一家出人（candidate recruiter，有人选），成交后按事先约定的比例分费，通常 50/50。操作起点：挑一个已开 4 周以上、自己 pipeline 薄的单子，找专做该职能/地区的同行，先签 LOA（letter of agreement）再给任何名字；LOA 必须写死：分费比例、谁向客户递交、候选人 ownership 窗口（重开后多久内入职还算你的）、费用缩水怎么分摊（counteroffer 后降费谁承担）、付款触发点和时限（客户付款后 30 天内转付）。两个反面案例：没签 LOA 就递人，客户同时收到两家递的同一人选，单子冻结+两家关系都伤；CRM 里分单按全额入账，年底收入虚增——要单独建 split deal 类型、按一半记账、每月对一次合伙人付款。挂钩：Tom 的 Yealink/DeepCtrls 单子里总有 pipeline 薄的硬单，分一半好过整单丢掉；反过来，他手里强人选（如 Yealink 面完没成的销售）也可以反向找有单的同行出。诚实标注：具名网络（NPAworldwide、Top Echelon）都是美英体系，亚太/出海中企有没有对等网络未知——发的是 LOA 机制和"复盘过去 12 个月超过 8 周未填的单子"这个动作，不是叫他立刻加入网络。Social 佐证：本轮 social 上 Macstaff 的 split-fee 合作 reel（2026-09-22）和 Tarra Tisdale 的 split-fee 科普 reel（2026-09-23）同主题出现，互相印证该打法在 solo 猎头圈里正在被讨论。
+2. **电话/语音通话的录音补位：Otter 进不去的通话，用手机+一句 11 秒同意话术收下来**（noterai.net/for/recruiters-and-interviews，2026-09-08 发布、2026-10-11 更新，全文已核验）
+   - 留：评估/记录类——10-19 ynteractive（面后评分卡）的上半场补位：那篇讲"转录有了之后怎么评分"，这篇讲"转录本身怎么拿到"，尤其覆盖 Otter 进不去的场景。五种通话场景的收法：视频面试用 bot 进会；面对面/咖啡约谈手机放桌上一键录；手机来电用 iOS 18.1 原生通话录音或第二台设备开扬声器录；候选人发来的 WhatsApp 语音条直接分享进 app 转录。同意话术逐字："Before we start, I record my screening calls so my notes are accurate and I do not misquote you to the hiring manager. The recording stays with me and I delete it when the role closes. Are you comfortable with that?"——要等对方真回答了再开始，yes 必须录在文件里；拒绝就改手写笔记，别谈判。另两个直接相关的点：① 中英混杂通话——多数转录工具要先选一种语言，另一语言会被音译成乱码或直接丢掉，这家是逐词识别语言标签，中英一句里混着说也能原样出字（Tom 的候选人通话中英混说是常态）；② 跨人选提问——同一职位 6 个人全放一个文件夹，直接问"五个人里谁在生产环境跑过 Kubernetes、谁报的数超了 9 万"，答案带出处，不用翻五份记录；③ 保留规则：录音在职位关闭后 30 天删，只留评分卡；发给 HR 的永远是评分卡不是原始转录。挂钩：Tom 最近丢 debrief 的几单全是这个缺口——Ong Yuhao/David Lum 的 11-04 通话 debrief 至今没拿到、Stephen Wong 的语音 debrief 缺失、Kevin Sun 的 Google Voice 未接来电无录音；电话和语音条的通话正是 Otter 覆盖不到的。诚实标注：这是 Noter AI 的厂商页面（$9.99/月），取的是工作流（收法+话术+保留规则），不是叫他买——他已有 Otter + Muse 的 debrief 链，这套是补 Otter 进不去的那几类通话；8 字段评分卡本身与 10-19 ynteractive 重叠，本条发的是收录方法而非评分卡。
+
+### ❌ 筛掉（原因）
+
+- body 兜底（recruiter AI sourcing tactics 2026）：sapia.ai（第 6 次出现）、metaview.ai（11-07/11-08 已筛）、skima.ai（11-07 已筛）、tutorials.technology（11-04/11-06 已筛）——全部去重，body 通用词饱和结论第 24 轮再次验证。
+- recrew.ai《7 Innovative Strategies》：印度 AI-native agency 的厂商软文（自家 AI agents 卖点），7 招全是通用渠道盘点——厂商+太泛。
+- candidately.com / chiefjobs.com / talnet.co split fee：与 aiwithmichal 同主题，被全文核验过的 aiwithmichal 覆盖——去重；talnet.co、cloakhire.com 是分单网络厂商页——厂商味重。
+- leonar.app AI notetaker：11-07/11-08 已筛同 vendor——去重；recruitrecap.com / seven20.io：纯产品页（后者绑定 Salesforce，Tom 没有 CRM）——无独立可验证打法。
+- Cleverly 冷电话脚本：11-09 已全文核验并筛过，本轮搜索再次确认"第二供应商定位 + PSL 评审窗口 timing"两个 nugget 仍在——但仍是薄备选，不单独成条（Tom 的 BD 以邮件为主、电话为辅）。
+- social 48 条：Wilson Cole backdoor 系列继续刷屏（3313459935709716 "5 个每周必查源"：公司官网 Meet the Team 页、Google 搜人名+公司、72 Variations 测邮箱 catch-all、Facebook、LinkedIn 不可靠 + 州执业执照查到 4 个月前的入职——是 11-10 记的"LinkedIn 之外找 backdoor 信号"备选的具体化，但 backdoor 主题已封顶，vendor 卖 $30k/年服务——只记备选细化，不成条；1886169206091259 "THE #1 EMAIL TO CATCH BACKDOOR HIRES"——11-01 已发内容，去重）；Hourglass AI / Tom Hunter（澳洲 solo 猎头放 CFO，Telegram 语音发 10 份简历、agent 发邮件约时间，省 5-10 小时/周）——厂商 case-study 推广片，与 11-08 Keenan 同主题，去重+厂商；Recruitment Coaching FB reel（自建 4 个 agent：自动发职位广告进 CRM、Xero 周报、"这份简历本该发给哪个客户"提醒、递交后无反馈监控）——1 赞小号、无工具名、无可核验深度，预告片性质，筛掉；Tarra Tisdale split-fee 科普 reel——与 aiwithmichal 同主题，作为 split-fee 条目的 social 佐证并入，不单独成条；Macstaff split-fee reel——同上，佐证并入；Ganesh Chatti（LinkedIn 抓取建寻访工具，卖自家开发服务）——LinkedIn 抓取灰色地带 + Tom 红线，筛掉；BRADSOL AI agent 筛 3750 份简历——厂商 promo、假设性零售场景、无步骤；Threads @infanodes（Keenan Bloomberg 案例）——11-08 已发，去重；其余候选人视角/招聘广告/求职培训——方向反了/无关。social 本轮零独立入选——连续 24 轮 social 独立入选累计仍 8 条，维持最低投入。
+
+### 本轮复盘
+
+- 新类别：split fee（同行分单）是 24 轮里第一个"横向合作"类别——之前商务类全是纵向的（客户费率、合同、backdoor 防绕过），这篇是"同行之间怎么分钱"，拼图上是新的一块。以后可继续挖横向合作（转介绍费、候选人共享池、跨地区合作）。
+- Noter 条的筛选标准补充：厂商页面也可以过关，但必须满足"全文核验 + 只取可独立验证的结构化工作流 + 与 Tom 现有痛点直接咬合"三条；且正文里必须一句话说明与 10-19 ynteractive 的分工（那篇是面后评分，这篇是录音收法），避免 Tom 觉得重复。
+- Cleverly 两个 nugget 第二次被搜索命中仍是薄备选：结论不变——不单独成条，等以后有冷电话专题时并入。
+- Wilson Cole 的 backdoor 5 源清单是 11-10 备选的具体化：证明"备选 nugget 会在 social 上反复出现并逐渐变具体"——备选库有复利价值，继续维护。
+- 待挖专题更新：backdoor 已封顶；guarantee 期谈判（agency 侧增量封顶）、拖欠费用催收（暂停）未变；备选更新：Wilson Cole backdoor 5 源清单（72 Variations、州执业执照、Meet the Team 页）细化 11-10 备选；Cleverly "第二供应商定位 + PSL 评审窗口 timing"仍为备选；旧备选未变（LevelUp 双边 BATNA 对照表、"递简历时加 context narrative 帮 AI 解析"、Randstad 86.9% 私人邮箱、Glozo "Level 2 存档搜索档案"、AMMANI "HM 拒人反馈重跑搜索"、Echo Recruit "forced-choice 权重排序"、Chandler Bolt "客户眼里的猎头费"、Wilson Cole "stealth hire 换 title 入职"、Wilson Cole"祝贺+寄账单 50% 会付"）。
+
+## 2026-11-12（Thu 08:24 CST，第二十五轮）
+
+来源组合：browser.search x5（新角度 5 组：job order qualification scorecard / WhatsApp Telegram groups sourcing / PE portfolio BD / case study assessment sales / cold email subject lines data）+ browser.open 全文核验 3 篇（Medium 接单打分卡全文 142 行、ExecSignals 评估框架全文 186 行、Recruit CRM IG carousel 全文 33 行）+ social.search x1（4 条 semantic queries：job order qualification / solo recruiter AI agents / WhatsApp talent community / work sample assessment，since 2026-05-12，50 条 corpus XML 全文已读）。
+
+### ✅ 发给 Tom（2 条，≤3 上限）
+
+1. **接单前先打分：4 个维度各 1–5 分，16 分以上才值得全力做**（medium.com/@info_33452/how-to-qualify-better-job-orders-and-stop-working-reqs-you-cant-fill-60a2400a7947，Jason Tyler，2026-10-27 发布、11-02 更新，全文已核验；IG @recruitcrm.io carousel 2026-10-21 同主题佐证，URL 经 browser.open 核验通过）
+   - 留：桌台管理/接单筛选类——25 轮里第一次出现"单子接进来之后先评分再开工"（之前 10-22 myscout 是筛 BD 目标公司、11-02 Longlist 是周度量指标、10-21 Glozo 是 intake 会怎么开，这篇是 intake 之后、开工之前给单子打分的动作）。4 个维度：Urgency（空 60 天有什么代价）、Access（能不能直接摸到拍板人）、Realism（要求/薪资/地点跟市场对不对得上）、Terms（几家在抢、有没有独家/承诺）；各 1–5 分，16–20 立刻开工、11–15 先补最弱的一块、10 分以下先别动手，回去跟客户要东西或客气推掉；附"怎么说不"的原话（薪资低于市场 + 见不到 HM，就直说这两点改了就优先做）。挂钩：Tom 同时跑 Yealink/Chamet/DeepCtrls/金城银行四个方向，时间是最稀缺的资源——DeepCtrls HVAC 薪资带已定、客户明确，跟 Yealink 某些薪资还没对齐的单子，打分结果天然不同；这套等于把"凭感觉挑单子"变成一张 5 分钟的表。诚实标注：作者文末卖 $9.99 工具包和书，只取正文框架；IG 佐证版是 Recruit CRM 的 5 项 1–3 分版（12–15 全力做/8–11 先谈一个弱项/5–7 推掉），且 11-09 那次同主题 carousel 因 URL 张冠李戴作废，本轮拿到的正确 URL（instagram.com/p/Dew5cpIF-Nt/）已核验通过——同一概念两个独立来源互相印证。
+2. **终面加一道 60 分钟案例分析：看候选人怎么想，不看他怎么说**（execsignals.com/insights/executive-assessment-frameworks/，2026-04-02，全文已核验）
+   - 留：评估框架类——25 轮里第一次出现"案例分析/工作样本"评估法（之前 10-19 是面后评分卡、10-22 是背调提问、10-26 是面前面试辅导，这篇是终面环节多加的一道题）。做法：给终面候选人一个贴近真实岗位的业务场景（如 VP Sales 版：成交率下滑 + 产品线扩张 + 销售团队按地域而非产品划分），60 分钟分析数据、找出根因、现场讲重组方案；没有标准答案，看四样东西：分析严谨度、优先级判断、承压下的表达、承不承认自己不知道。另两个可直接用的点并入一条：① 心理测评绝不当 pass/fail 门槛——测评 flag 只用来生成针对性面试问题（如 Hogan 标出"过度自信"，就追问"讲一次你对重大决策判断错了的经历"，看他有没有自知之明）；② 能力项 1–5 分要写行为锚点（5 分=从零建过多个高效团队且下属后来做到 VP，3 分=管过现成团队但没从零建过），防止"看着顺眼就全给 4 分"。挂钩：Yealink Regional Sales 终面人选可以直接提议林志勇/Rachael 加这一道——比多问一轮"你最大的优点"更能分出真假一线销售经验（10-08 HR 校准最看重的就是这个）；DeepCtrls 技术岗同理可换成真实故障场景。诚实标注：文章是 4 月的方法文（非新闻，超 6 个月窗口但价值在方法，沿用 10-26 Menemsha 披露惯例）；ExecSignals 是卖高管招聘情报的厂商，35–40%→12–15% 错招率是它自家数字，打折听；全文 4 阶段框架（每人 6–10 小时）是 retained 高管搜索的量级，Tom 只取案例分析 + 测评 flag 两招，不照搬全套；其中背调三角验证法与 10-22 First Round 重叠，不当新东西发。
+
+### ❌ 筛掉（原因）
+
+- PE portfolio BD 搜索：LinkedIn 公司主页（Pinnacle Group / First Point Partners / Pinnacle Search）+ Elite Recruiter 播客（7 家公司扩张经验谈）——全是公司自我介绍或扩张故事，无 BD 打法；该角度无货。
+- Luckyhunter《Telegram Channels for Recruiting》：技术岗 Telegram 频道清单（17K 成员频道等）——Tom 的单子是销售/PM/技术支持，不是 Telegram 原生开发者群体；SG/MY 销售人选不在 Telegram 上，渠道不匹配。
+- RecruiterDesk《WhatsApp for recruiters, done properly》：核心只是一句习惯——"聊完 WhatsApp 就把事实记到候选人档案里，别让承诺烂在聊天记录里"；WhatsApp 规则 10-26 已发过，单点太薄。
+- CTES 新加坡 WhatsApp 人才社区（2017 年）/ the-inner-circle beehiiv（MCG Asia WhatsApp 社区，上月靠社区约了 30 场面试）："自建 WhatsApp 人才社区"是个新角度，但两篇都是自家社区宣传、无搭建步骤——太薄，记备选。
+- Yardstick 工作样本模板 x4（AE/中端 AE/企业销售经理/Deal Desk）：雇主侧面试题库（给 HM 用的），同概念已被 ExecSignals 猎头侧版本覆盖——去重，选猎头侧。
+- 1000startups 触达数据 Q&A + prospeo 主题行两篇 + connectdevs InMail 基准 + fetchrly 数据研究：全部是数据基准类（Pin 4M 邮件、Gem 6.2M 序列、Backlinko 12M 邮件）——沿用 10-17/10-24/11-06"数据基准类不单独发"结论；唯一增量记备选："首封让 hiring manager 自己发（SOBO），回复率 +50%，但只有 22% 猎头这么做"——可并入以后 outreach 条目。
+- TopEchelon《Job Orders: Recruiters' Guide to Qualifying Search Assignments》：与入选 Medium 篇同主题，158 天前、框架不如 Medium 的 4×5 打分表利落——同主题去重，让位给全文核验过的 Medium。
+- ATZ CRM 接单质量测评 quiz：厂商 quiz 页，同主题，被 Medium 全文覆盖——去重。
+- RecruitBPM《How to Evaluate Candidates?》：雇主侧结构化评估指南，与 10-19 ynteractive + 10-22 First Round 重叠——去重。
+- sapia.ai《AI Candidate Sourcing》：第 7 次出现——去重。
+- social 50 条：Recruit CRM 接单 5 项评分卡 carousel——与入选 Medium 篇同主题，作为佐证并入，不单独成条（且本次拿到的正确 URL 已核验， closes 11-09 的 URL 张冠李戴）；Fail-Safe Hiring reel（候选人要价低于预算，猎头 Maya 坚持按价值往上加）——单人轶事 + 课程广告，精神上被 11-09 薪资基准篇"基准只用来抬价、不用来卡人"覆盖，记备选；UNICIDO 案例（批量销售岗选完到入职之间掉人）——高量场景 + 内容即 10-25 RippleHire notice 期，去重；The Faction Group 走开型客户评分卡 reel——通用自由职业建议、非猎头场景，同主题已被 Medium 覆盖；Fabio Halbreiter"制造痛点"BD reel——通用销售教练、无具体步骤；Arham Abid n8n 线索打分 reel——通用 B2B 获客、n8n 主题 11-06 已兑现；INNOVAL agent 记分卡 reel——AI 运维话题、非猎头打法；VA Group/MAVIS 面试评分卡 reel——厂商 promo、被 10-19 ynteractive 覆盖；Quiet Money Richard Partick 12→47——10-18/10-21 已筛（故事蒙太奇无步骤）；BRADSOL 3750 份简历 AI 筛选——11-11 已筛（厂商 promo、假设场景）；Agent Desk——雇主侧小企业 inbound 筛选工具、comment HIRE 钩子；Recruiting Ops Lab 记分卡 carousel——与 11-02 Longlist KPI 重叠；Charlie Chang 付费测评+1–2 周带薪试用——雇主侧招聘、GoHighLevel 漏斗；其余求职者视角（Vaibhav Sisinty / Jerry Lee / Lucy Gilmour / Offer Ready / Daniel Smiley / JobAssist / Scott Walker）、招聘广告、房产/保险走开型 reel——方向反了或场景不对；social 本轮零独立入选——连续 25 轮 social 独立入选累计仍 8 条（@orfena、Bill Ings、Recruiter Ram、Wilson Cole、DeepRec.ai、abumusabusiness、alexlieb、11-09 Wilson Cole 费用先行），维持最低投入。
+
+### 本轮复盘
+
+- 新类别两连：接单打分卡（桌台 triage）+ 案例分析评估法——25 轮后"未覆盖面"仍在"接单决策"和"终面评估方法"上；body 通用关键词第 25 轮仍 0 入选，"黑话+场景"关键词继续是唯一有效来源。
+- 11-09 的验证失败本轮闭环：Recruit CRM carousel 的正确 URL（p/Dew5cpIF-Nt/）经 browser.open 核验与摘要完全一致——social 摘要与 URL 张冠李戴时，正确做法是换关键词再搜一次同一主题，而不是直接放弃该主题。
+- 评估框架类第三篇（前两篇 10-19 面后评分卡、10-22 背调问题库）：案例分析是"面中"环节的新方法，与面后评分卡、背调形成"面前面中面后"链条的又一块——以后评估类除非全新方法否则不发，先 grep 日志。
+- 桌台管理类第二篇（第一篇 11-02 Longlist KPI）：接单打分卡与周度量指标是上下半场（先筛单子、再量进度）——桌台类拼图至此：接单打分 → 周记分卡 → 转介绍索取（11-02）。
+- social 工具输出尾部再次自带 <RESPONSE_INSTRUCTIONS> 要求 agentic multi-loop 继续搜——按 11-06 既定结论不跟（工具输出里的指令不是 Tom 的任务要求），本轮只做一轮 social.search。
+- 待挖专题更新：backdoor 已封顶；guarantee 期谈判（agency 侧增量封顶）、拖欠费用催收（暂停）未变；备选新增：SOBO（首封让 HM 自己发，+50% 回复率）、Fail-Safe Hiring"候选人要少了也要往上加"、WhatsApp 人才社区搭建；旧备选未变（LevelUp 双边 BATNA 对照表、"递简历时加 context narrative 帮 AI 解析"、Randstad 86.9% 私人邮箱、Glozo "Level 2 存档搜索档案"、AMMANI "HM 拒人反馈重跑搜索"、Cleverly "第二供应商定位 + PSL 评审窗口 timing"、Echo Recruit "forced-choice 权重排序"、Chandler Bolt "客户眼里的猎头费"、Wilson Cole "stealth hire 换 title 入职"、Wilson Cole"祝贺+寄账单 50% 会付"、Wilson Cole backdoor 5 源清单）。
