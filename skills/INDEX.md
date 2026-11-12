@@ -1,5 +1,6 @@
 # Reusable Headhunter Skills
 
+- [sea-chinese-name-gate](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/sea-chinese-name-gate/SKILL.md)
 - [global-headhunter-primary-executor](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/global-headhunter-primary-executor/SKILL.md)
 - [linkedin-activity-as-active](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/linkedin-activity-as-active/SKILL.md)
 - [active-candidate-evidence](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/active-candidate-evidence/SKILL.md)
