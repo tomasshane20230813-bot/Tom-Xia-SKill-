@@ -1,3 +1,4 @@
+- [resume-assessment-by-title-and-duties](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/resume-assessment-by-title-and-duties/SKILL.md)
 - [dc-aidc-sg-end-to-end-workflow](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/dc-aidc-sg-end-to-end-workflow/SKILL.md)
 - [early-draft-review-backfill](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/early-draft-review-backfill/SKILL.md)
 - [client-folder-final-files](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/client-folder-final-files/SKILL.md)
