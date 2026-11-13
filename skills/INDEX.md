@@ -1,3 +1,4 @@
+- [early-draft-review-backfill](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/early-draft-review-backfill/SKILL.md)
 - [client-folder-final-files](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/client-folder-final-files/SKILL.md)
 - [dc-aidc-technical-priority](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/dc-aidc-technical-priority/SKILL.md)
 # Reusable Headhunter Skills
