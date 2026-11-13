@@ -1,3 +1,4 @@
+- [chinese-name-by-appearance](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/chinese-name-by-appearance/SKILL.md)
 - [no-hanzi-requirement](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/no-hanzi-requirement/SKILL.md)
 - [resume-assessment-by-title-and-duties](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/resume-assessment-by-title-and-duties/SKILL.md)
 - [dc-aidc-sg-end-to-end-workflow](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/dc-aidc-sg-end-to-end-workflow/SKILL.md)
