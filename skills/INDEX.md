@@ -1,3 +1,4 @@
+- [dc-aidc-technical-priority](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/dc-aidc-technical-priority/SKILL.md)
 # Reusable Headhunter Skills
 
 - [sea-chinese-name-gate](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/sea-chinese-name-gate/SKILL.md)
