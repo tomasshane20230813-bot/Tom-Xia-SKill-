@@ -17,9 +17,10 @@ Tom 于 2026-11-12 定下的口径。只用于他的新加坡、马来西亚、�
 
 ## 什么名字算确定
 
-- 姓名里有汉字。
 - 新加坡或马来西亚档案，姓氏在 [references/surnames.md](references/surnames.md) 的高置信列表里。Tom 点名的例子：Choo（周/朱）。同列表里的 Tan、Lim、Ong、Goh、Teo、Koh 同样通过。
 - 两个部分都像中文拼音的全名，例如 Wei Jian Tan、Xiao Ming Lim。英文名加高置信姓也可以，例如 Evan Choo。
+
+领英档案很少写汉字，没有汉字不是问题。不要写“待补汉字”，不要要求补汉字，也不要因为缺汉字降分或标存疑。详见 `no-hanzi-requirement`。
 
 ## 不要自动通过
 
