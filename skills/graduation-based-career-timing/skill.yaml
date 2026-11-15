@@ -1,0 +1,6 @@
+name: graduation-based-career-timing
+version: "2026-11-15"
+description: 本科毕业年达标且没有更早正式工作反证时，以合理推断判时间门通过。
+category: recruiting
+author: Tom Xia
+last_updated: "2026-11-15"
