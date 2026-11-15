@@ -1,0 +1,7 @@
+name: recruiting-score-normalization
+version: "2026-11-15"
+description: 删除语言评分后，将其余职业维度按原比例统一重新加权至满分100。
+category: recruiting
+author: Tom Xia
+last_updated: "2026-11-15"
+

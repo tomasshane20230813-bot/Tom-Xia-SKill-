@@ -12,6 +12,8 @@
 - [dc-aidc-technical-priority](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/dc-aidc-technical-priority/SKILL.md)
 # Reusable Headhunter Skills
 
+- [recruiting-score-normalization](recruiting-score-normalization/SKILL.md)：删除语言项后，其余职业维度按原比例统一重新加权至满分100。
+
 - [graduation-based-career-timing](graduation-based-career-timing/SKILL.md)：本科毕业年达标且没有更早正式工作反证时，合理推断时间门通过。
 
 - [connected-recruiting-plugins](connected-recruiting-plugins/SKILL.md)：主动使用已连接且相关的招聘插件，按职业信息缺口协同补证并记录真实结果。
