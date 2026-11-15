@@ -1,6 +1,6 @@
 ---
 name: chinese-name-by-appearance
-description: 领英姓名看起来像华人姓名（高置信华人姓氏，或全名是中文拼音组合）即可认定其为华人，不需要汉字、语言栏中文或额外证明。Tom 要求按华人姓名判定人选时使用。
+description: 领英姓名看起来像华人姓名即可认定其为华人；语言项给该维度满分。不需要汉字或语言栏中文。Tom 要求按华人姓名判定人选时使用。
 version: 2026-11-13
 source_type: tom-operating-rule
 ---
@@ -36,8 +36,8 @@ Tom 于 2026-11-13 重申：领英履历上的名字只要看起来像 Chinese n
 姓名像华人，只说明“是华人”这一条成立。以下仍然分开处理，不得顺推：
 
 - 国籍、公民、PR：没有原文一律写未核实。
-- 中文等级、工作语言：没有明示就不写 Native 或双语。
-- 技术匹配度：按 `resume-assessment-by-title-and-duties` 单独打分。
+- 中文评分：姓名已判定为华人时，语言项给该维度满分。见 `chinese-name-language-full-score`。不要因为语言栏空白给 0 分或低分。语言栏没写 Native 时，不要编造成档案原文是 Native。
+- 技术匹配度：按 `resume-assessment-by-title-and-duties` 单独打分。语言满分不能代替职责证据。
 
 ## 与其他 skill 的关系
 

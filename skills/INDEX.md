@@ -1,3 +1,4 @@
+- [chinese-name-language-full-score](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/chinese-name-language-full-score/SKILL.md)
 - [silent-10min-monitor](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/silent-10min-monitor/SKILL.md)
 - [subordinate-plugin-assist-on-request](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/subordinate-plugin-assist-on-request/SKILL.md)
 - [agent-context-window-guard](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/agent-context-window-guard/SKILL.md)
