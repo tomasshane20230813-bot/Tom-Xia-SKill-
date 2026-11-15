@@ -10,6 +10,8 @@
 - [dc-aidc-technical-priority](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/dc-aidc-technical-priority/SKILL.md)
 # Reusable Headhunter Skills
 
+- [connected-recruiting-plugins](connected-recruiting-plugins/SKILL.md)：主动使用已连接且相关的招聘插件，按职业信息缺口协同补证并记录真实结果。
+
 - [sea-chinese-name-gate](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/sea-chinese-name-gate/SKILL.md)
 - [global-headhunter-primary-executor](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/global-headhunter-primary-executor/SKILL.md)
 - [linkedin-activity-as-active](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/linkedin-activity-as-active/SKILL.md)
