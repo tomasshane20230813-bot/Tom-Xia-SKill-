@@ -1,6 +1,6 @@
 name: keep-duplicate-candidates
 version: "2026-11-15"
-description: 当天初稿里出现过的人选，包括重复人选，必须留在最新初稿和终稿，旧文件不得删除。
+description: 当天初稿里出现过的人选必须留在最新稿。历史重复要标在本人信息里，占比不得超过 5%。
 category: recruiting
 author: Tom Xia
 last_updated: "2026-11-15"

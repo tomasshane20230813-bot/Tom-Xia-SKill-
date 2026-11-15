@@ -1,0 +1,6 @@
+name: duplicate-mark-and-five-percent-cap
+version: "2026-11-15"
+description: 重复人选必须标在本人信息里。历史重复不得超过文件人数的 5%，超过返工；禁止删人或大规模回收旧人。
+category: recruiting
+author: Tom Xia
+last_updated: "2026-11-15"
