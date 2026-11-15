@@ -1,3 +1,4 @@
+- [agent-context-window-guard](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/agent-context-window-guard/SKILL.md)
 - [chinese-name-by-appearance](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/chinese-name-by-appearance/SKILL.md)
 - [no-hanzi-requirement](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/no-hanzi-requirement/SKILL.md)
 - [resume-assessment-by-title-and-duties](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/resume-assessment-by-title-and-duties/SKILL.md)
