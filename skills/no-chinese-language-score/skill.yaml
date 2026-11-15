@@ -1,6 +1,6 @@
 name: no-chinese-language-score
 version: "2026-11-15"
-description: 寻访和初稿取消中文语言评分，华人只看姓名外观，不折算被删除的语言分。
+description: 取消中文语言评分；华人只看姓名；其余维度按原权重放大，满分合计 100。
 category: recruiting
 author: Tom Xia
 last_updated: "2026-11-15"
