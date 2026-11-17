@@ -1,0 +1,5 @@
+name: key_candidate_followup_watch
+title: 重点人选跟进看守
+description: 猎头空间里处在重要进展的人选，Muse 主动提醒 Tom 关注和跟进：晨报必带重点人选一节，面试无结果、客户反馈逾期、竞争机会时间窗临近时即时提醒，只报需 Tom 本人动作的事项。
+category: Work and knowledge
+include_in_prompt: true
