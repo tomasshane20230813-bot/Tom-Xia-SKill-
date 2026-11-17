@@ -52,3 +52,4 @@
 - **Kelvin Ong**（DeepCtrls Presales）：等下周与深度智控的面试时间；2026-11-18 11:00 Tom 追问（提醒已设）；11-16 与 Tom 通话结果待补记。
 - **Jeffrey Yifeng Xu**（亿联澳洲 Presales / 技术支持）：2026-11-13 与林志勇初面已进行，复盘未回；但关键不在他——亿联该岗另有一位更资深人选正在中面，Jeffrey 是备胎，等资深人选结果（通过则待命、不通过才顶上），不催不推。
 - **Huimin Shih**（SwiftX Linehaul Capacity Manager）：已接受转推、请 Tom 争取直接与 HM 视频面试；给 SwiftX HR 微微的简历报告（Linehaul 口径）待 Tom 定发送渠道。
+- **Darryl Wong**（金城银行 · 越南销售负责人）：通过初试，原定复试未举行；HR 称有更优人选先面、面完再看是否安排他复试/终面（2026-10-16 口径，Notion 11 月月总结 Ongoing 仍列他在流程中）；自此无新进展，是否再催 HR 待 Tom 定。2026-11-17 按 Notion Ongoing 清单核对补入（空间卡 54）。
