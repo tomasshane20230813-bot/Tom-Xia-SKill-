@@ -50,5 +50,5 @@
 - **Marcus Tan**（亿联 Regional Sales）：2026-11-18 15:00 与 HR 林志勇初面（Tom 不参会，提醒全套已设），面后要跟进结果。
 - **Caster Lee**（DeepCtrls Presales）：2026-11-19 10:00 与 HM 一面（Tom 不参会）；他的意愿与薪资底线（讨论范围 130K–140K，低于标准带 150K–220K）未明，面后需确认。
 - **Kelvin Ong**（DeepCtrls Presales）：等下周与深度智控的面试时间；2026-11-18 11:00 Tom 追问（提醒已设）；11-16 与 Tom 通话结果待补记。
-- **Jeffrey Yifeng Xu**（亿联澳洲 Presales）：2026-11-13 与林志勇初面已进行，Tom 已 WhatsApp 问复盘，等他回复中。
+- **Jeffrey Yifeng Xu**（亿联澳洲 Presales / 技术支持）：2026-11-13 与林志勇初面已进行，复盘未回；但关键不在他——亿联该岗另有一位更资深人选正在中面，Jeffrey 是备胎，等资深人选结果（通过则待命、不通过才顶上），不催不推。
 - **Huimin Shih**（SwiftX Linehaul Capacity Manager）：已接受转推、请 Tom 争取直接与 HM 视频面试；给 SwiftX HR 微微的简历报告（Linehaul 口径）待 Tom 定发送渠道。
