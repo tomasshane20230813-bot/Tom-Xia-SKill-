@@ -1,0 +1,5 @@
+name: candidate_progress_sync
+title: 人选进展反馈四处同步
+description: Tom 给出任何人选进展反馈时，Muse 自动判断并同步备注到四处：猎头空间人选卡、Notion 人选表行、人物档、Ongoing Process 汇总（Notion 月计划页 + 周五复盘页 + 空间留底 Headline）；条目该加加、该删删，条头框架句与事实冲突立刻改。
+category: Work and knowledge
+include_in_prompt: true
