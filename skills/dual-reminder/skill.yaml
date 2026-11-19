@@ -1,0 +1,5 @@
+name: dual_reminder
+title: 双提醒（日历正标题 + 提醒事项备注句）
+description: 提醒标题不短、又有关键备注必须在响铃时看到时，用双保险：iPhone 日历出完整正标题（备注放 Description），苹果提醒事项同一时间只写那句备注内容，两边同时响（提前15分钟+到点各一次）拼成完整信息。凡提醒同时有标题和备注，先问 Tom 要不要这么设，他点头才用。
+category: Work and knowledge
+include_in_prompt: true
