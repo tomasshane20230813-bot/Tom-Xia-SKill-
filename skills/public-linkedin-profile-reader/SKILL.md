@@ -33,4 +33,6 @@ source_type: observed-working-method
 
 ## 调用顺序
 
-拿到 LinkedIn 个人 URL 后，先运行本 skill 的脚本自己查看公开履历。不要先把链接转给 Codex、Google Antigravity 或其他 agent。只有本方法返回 `authwall`、`blocked` 或 `empty`，并且换过一次 Jina 读取仍打不开时，才可以把这个 URL 交给其他 agent 用已授权插件补读。搜索摘要、登录墙和星号遮挡都不能写成已核实履历。
+拿到 LinkedIn 个人 URL 后，先运行本 skill 的脚本自己查看公开履历。公开可见且没有星号遮挡的字段可以直接用。
+
+一旦出现登录墙，立刻改走 `linkedin-loginwall-plugin-read`：把这条已确认的 URL 同时交给大总管和 PI+，用已连接招聘插件读详细履历。登录墙包括 `authwall`、`blocked`、`empty`、`Join to view`，以及脚本虽返回 `public` 但职位或职责被星号、`undefined` 挡住。不要重试同一条 URL，不要登录，不要等 Tom 点许可，也不要把搜索摘要补成履历。
