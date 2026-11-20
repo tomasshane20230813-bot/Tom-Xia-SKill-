@@ -1,0 +1,5 @@
+name: followup_email_system
+title: 跟进邮件体系（节奏 + 模板 + 发送核验）
+description: 候选人外联跟进 #2（T+3）/#3（T+7）的全套打法：threaded 回第一封、模板逐字文本（必带一句铺垫 + Calendly 约电话链接、opt-out 结尾）、发送前查无回信、逐封顺序发、RFC 2047、发后取回核验、一行总账与到期日记录。
+category: Work and knowledge
+include_in_prompt: true
