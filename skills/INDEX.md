@@ -3,6 +3,7 @@
 - [keep-duplicate-candidates](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/keep-duplicate-candidates/SKILL.md)
 - [new-candidates-only-three-source-dedup](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/new-candidates-only-three-source-dedup/SKILL.md)
 - [final-review-score-all-drafts-pdf](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/final-review-score-all-drafts-pdf/SKILL.md)
+- [blocked-handoff-keep-working](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/blocked-handoff-keep-working/SKILL.md)
 - [no-chinese-language-score](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/no-chinese-language-score/SKILL.md)
 - [chinese-name-language-full-score](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/chinese-name-language-full-score/SKILL.md)
 - [silent-10min-monitor](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/silent-10min-monitor/SKILL.md)
