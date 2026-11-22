@@ -40,3 +40,4 @@
 Original repository skills (virtual-resume-probe and github-playbook-sync) are preserved.
 - [public-linkedin-profile-reader](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/public-linkedin-profile-reader/SKILL.md)
 - [linkedin-loginwall-plugin-read](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/linkedin-loginwall-plugin-read/SKILL.md)
+- [keep-all-reviewed-candidates-in-client-folder](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/keep-all-reviewed-candidates-in-client-folder/SKILL.md)
