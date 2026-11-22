@@ -1,3 +1,4 @@
+- [tom-redlines-and-bottomlines](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/tom-redlines-and-bottomlines/SKILL.md)
 - [duplicate-mark-and-five-percent-cap](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/duplicate-mark-and-five-percent-cap/SKILL.md)
 - [keep-duplicate-candidates](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/keep-duplicate-candidates/SKILL.md)
 - [new-candidates-only-three-source-dedup](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/new-candidates-only-three-source-dedup/SKILL.md)
