@@ -1,5 +1,5 @@
 name: followup_auto_send
 title: 跟进邮件自动发送
-description: 猎头空间里有邮箱、已发首封的人选，未回复的自动按每 3 天一封发跟进 #2、#3（#2=首封+3天，#3=#2+3天，无 #4）；每日 cron 扫描到期名单，模板/串联/核验按 followup-email-system 执行，已回复者跳过，被审批卡挡下的列清单报 Tom。
+description: 猎头空间里有邮箱、已发首封的人选，未回复的自动按每 2 天一封发跟进 #2、#3（#2=首封+2天，#3=#2+2天，无 #4）；每日 cron 扫描到期名单，模板/串联/核验按 followup-email-system 执行，已回复者跳过，被审批卡挡下的列清单报 Tom。
 category: Work and knowledge
 include_in_prompt: true
