@@ -1,0 +1,5 @@
+name: candidate_intake_sync
+title: 新人选录入自动进猎头空间
+description: Tom 让录入的每一位新人选，自动同步五处：外联邮件（有邮箱且应发时）、Mac 通讯录、Notion 对应人选表、猎头空间人选卡、人物档。空间建卡是录入的固定组成部分，不等 Tom 单独交代、绝不漏；建卡后 getoverview 读回核验显示。
+category: Work and knowledge
+include_in_prompt: true
