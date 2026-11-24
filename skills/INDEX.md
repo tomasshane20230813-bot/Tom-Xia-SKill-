@@ -42,3 +42,5 @@ Original repository skills (virtual-resume-probe and github-playbook-sync) are p
 - [linkedin-loginwall-plugin-read](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/linkedin-loginwall-plugin-read/SKILL.md)
 - [keep-all-reviewed-candidates-in-client-folder](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/keep-all-reviewed-candidates-in-client-folder/SKILL.md)
 - [memory-via-openmausbot-ceo](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/memory-via-openmausbot-ceo/SKILL.md)
+
+- [chinese-sourcing-and-name-judgment](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/chinese-sourcing-and-name-judgment/SKILL.md)：全球寻访华人与从领英姓名侧面判断华人的核心技能（含高置信方言/拼音姓氏表与边界规范）。

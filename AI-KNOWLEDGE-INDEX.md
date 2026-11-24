@@ -24,5 +24,11 @@ This public GitHub repository is a single source of reusable recruiting practice
 - [transcription-qa](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/transcription-qa/SKILL.md)
 - [xray-sourcing](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/xray-sourcing/SKILL.md)
 
+- [chinese-sourcing-and-name-judgment](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/chinese-sourcing-and-name-judgment/SKILL.md)：凡要求找华人时从 Memory 调出，用于华人寻访与姓名侧面判定（含完整方言/拼音姓氏表，不要求汉字、不给语言项打分）。
+- [chinese-name-by-appearance](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/chinese-name-by-appearance/SKILL.md)
+- [sea-chinese-name-gate](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/sea-chinese-name-gate/SKILL.md)
+- [no-hanzi-requirement](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/no-hanzi-requirement/SKILL.md)
+- [no-chinese-language-score](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/no-chinese-language-score/SKILL.md)
+
 ## Fidelity
 These are user-authorized, public-safe synthesized practices from accessible sources. Some sources were fully read, others reconstructed; use provenance notes to distinguish. No claim that all ChatGPT internal memory was exported.

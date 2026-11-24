@@ -30,3 +30,9 @@ Note: these materials are public-safe abstractions, not a complete direct export
 - [tom-redlines-and-bottomlines](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/tom-redlines-and-bottomlines/SKILL.md)
 - [keep-all-reviewed-candidates-in-client-folder](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/keep-all-reviewed-candidates-in-client-folder/SKILL.md)
 - [memory-via-openmausbot-ceo](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/memory-via-openmausbot-ceo/SKILL.md)
+
+- [chinese-sourcing-and-name-judgment](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/chinese-sourcing-and-name-judgment/SKILL.md)
+- [chinese-name-by-appearance](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/chinese-name-by-appearance/SKILL.md)
+- [sea-chinese-name-gate](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/sea-chinese-name-gate/SKILL.md)
+- [no-hanzi-requirement](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/no-hanzi-requirement/SKILL.md)
+- [no-chinese-language-score](https://github.com/tomasshane20230813-bot/Tom-Xia-SKill-/blob/main/skills/no-chinese-language-score/SKILL.md)

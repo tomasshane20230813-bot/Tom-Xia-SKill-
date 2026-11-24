@@ -44,3 +44,7 @@ Tom 于 2026-11-13 重申：领英履历上的名字只要看起来像 Chinese n
 - 姓氏列表与边界细则见 `sea-chinese-name-gate`。
 - 汉字缺失不算问题见 `no-hanzi-requirement`。
 - 整轮流程见 `dc-aidc-sg-end-to-end-workflow`。
+
+
+## 2026-11-24 全球永久调取规则
+- Tom 于 2026-11-24 明确：今后所有要求找华人的项目，大总管及执行团队必须第一时间从永久 Memory 调出本 Skill 与 `chinese-sourcing-and-name-judgment`（含完整姓氏词库 `references/surnames.md`），作为评价人选是否为华人的重要标准。
