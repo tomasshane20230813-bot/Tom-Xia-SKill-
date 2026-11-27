@@ -30,6 +30,11 @@
 - 空间卡的 nextFollowUp 与人物档的跟进记录是排期依据；两者冲突时以 Gmail 实际发送记录为准并当场修正记录。
 - 无邮箱的人选不进本流程（空间 stage=new 的多为此类），由 Tom 自行用 WhatsApp/LinkedIn 联系。
 
+## Email Campaign 就是本扫轮（Tom 的叫法，不是另一套系统）
+
+- Tom 说的「加入 Email Campaign」= 进入本自动发送：卡 stage=contacted + 有邮箱 + 首封已发。卡上写「已加入 Email Campaign」的人照常由本扫轮发跟进，绝不能以此为由跳过。
+- 教训 2026-11-27：Bryan Ooi 的 #2 到期日 11-27 当天被扫轮跳过（误以为另有系统发），Gmail 核验他名下只有首封 358 号，#2 漏发。关卡（stage → closed）即停，无其他系统可停、无需 Tom 手动处理。
+
 ## 与其他规则的关系
 
 - 新人选录入时卡上写准首封日与跟进到期日（见 candidate-intake-sync），本流程才有据可依。
